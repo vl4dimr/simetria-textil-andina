@@ -1,0 +1,867 @@
+﻿culture,file,frieze_group,horizon,source,source_id,status,attribution_uncertain,glide_h,glide_v,lattice_dim,megapixels,mirror_h,mirror_v,object_type,period_x,period_y,phase_h,phase_v,rectify_angle,reflect_h,reflect_v,region,rot120,rot180,rot60,rot90,rotation_order,threshold,translation,wallpaper_group
+no determinada,data/raw/met/images/met_17704.jpg,p2mm,no determinado,met,17704,ok,False,0.0,0.0,1,1.3,0.6661,0.605,"Belt, fragment",18.0,,0.0,,0.0,0.6661,0.605,no determinada,0.1387,0.6252,0.1452,0.1272,2,0.4397,0.6281,pmm
+no determinada,data/raw/met/images/met_21676.jpg,p2mg,no determinado,met,21676,ok,False,0.8401,0.0,1,7.01,0.0,0.8471,Shawl,14.0,,0.3571,,0.0,0.8401,0.8471,no determinada,0.606,0.8216,0.62,0.5554,2,0.7814,0.839,pmg
+no determinada,data/raw/met/images/met_21677.jpg,p1,no determinado,met,21677,ok,False,0.0,0.5136,2,3.8,0.293,0.0,Shawl,14.0,44.0,0.0714,0.3636,0.0,0.293,0.5136,no determinada,0.2588,0.2654,0.2329,0.211,1,0.4601,0.6573,pg
+no determinada,data/raw/met/images/met_21678.jpg,p2mm,no determinado,met,21678,ok,False,0.0,0.0,2,2.14,0.3933,0.3808,Shawl,16.0,20.0,0.0,0.0,0.0,0.3933,0.3808,no determinada,0.1703,0.3638,0.1342,0.1667,2,0.3255,0.465,pmm
+no determinada,data/raw/met/images/met_126662.jpg,,no determinado,met,126662,sin periodicidad,False,,,,3.48,,,Ensemble,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_214310.jpg,,no determinado,met,214310,periodicidad debil,False,,,,3.41,,,Mantle,,,,,0.0,,,no determinada,,,,,,,0.3174,
+no determinada,data/raw/met/images/met_217394.jpg,p2mm,no determinado,met,217394,ok,False,0.0,0.0,1,4.24,0.5932,0.7433,Textiles-Woven,54.0,,0.0,,1.06,0.5932,0.7433,no determinada,0.3274,0.5869,0.2874,0.3865,2,0.4572,0.6531,pmm
+no determinada,data/raw/met/images/met_219915.jpg,,no determinado,met,219915,periodicidad debil,False,,,,1.54,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3004,
+no determinada,data/raw/met/images/met_219973.jpg,p2mm,no determinado,met,219973,ok,False,0.0,0.0,1,4.26,0.9099,0.8476,Textiles-Woven,22.0,,0.0,,0.0,0.9099,0.8476,no determinada,0.4992,0.8363,0.495,0.4414,2,0.7035,0.6036,pmm
+no determinada,data/raw/met/images/met_221572.jpg,p1m1,no determinado,met,221572,ok,False,0.0,0.0,1,6.17,0.359,0.5358,Textiles-Woven,19.0,,0.0,,0.0,0.359,0.5358,no determinada,0.2923,0.353,0.3035,0.4222,4,0.4193,0.599,p4m
+no determinada,data/raw/met/images/met_222602.jpg,p2mm,no determinado,met,222602,ok,False,0.0,0.0,1,9.71,0.8025,0.9093,Textiles-Woven,,26.0,,0.0,0.0,0.8025,0.9093,no determinada,0.4251,0.8008,0.4285,0.4497,2,0.6387,0.5399,pmm
+no determinada,data/raw/met/images/met_227918.jpg,,no determinado,met,227918,periodicidad debil,False,,,,3.71,,,Tapestry,,,,,0.0,,,no determinada,,,,,,,0.1837,
+no determinada,data/raw/met/images/met_228931.jpg,,no determinado,met,228931,periodicidad debil,False,,,,5.22,,,Square,,,,,0.0,,,no determinada,,,,,,,0.4007,
+no determinada,data/raw/met/images/met_229454.jpg,,no determinado,met,229454,periodicidad debil,False,,,,3.34,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3504,
+no determinada,data/raw/met/images/met_229455.jpg,p11m,no determinado,met,229455,ok,False,0.0,0.0,1,5.17,0.4542,0.5451,Textiles-Woven,24.0,,0.0,,0.0,0.4542,0.5451,no determinada,0.1161,0.3966,0.1308,0.2043,1,0.4054,0.5791,pm
+no determinada,data/raw/met/images/met_229456.jpg,p2mm,no determinado,met,229456,ok,False,0.0,0.0,1,3.21,0.6864,0.7265,Textiles-Woven,,16.0,,0.3125,0.0,0.6864,0.7265,no determinada,0.3969,0.6266,0.4024,0.4508,2,0.5164,0.4541,pmm
+no determinada,data/raw/met/images/met_230938.jpg,,no determinado,met,230938,periodicidad debil,True,,,,3.73,,,Upholstery panel,,,,,0.0,,,no determinada,,,,,,,0.172,
+no determinada,data/raw/met/images/met_307447.jpg,,no determinado,met,307447,periodicidad debil,True,,,,0.37,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.2876,
+chimu,data/raw/met/images/met_307448.jpg,,Intermedio Tardio,met,307448,periodicidad debil,False,,,,2.42,,,Textiles-Woven,,,,,-1.97,,,no determinada,,,,,,,0.3186,
+inca,data/raw/met/images/met_307449.jpg,,Horizonte Tardio,met,307449,periodicidad debil,False,,,,11.54,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3783,
+sican,data/raw/met/images/met_307450.jpg,,Intermedio Tardio,met,307450,sin periodicidad,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,costa norte,,,,,,,,
+no determinada,data/raw/met/images/met_307451.jpg,,no determinado,met,307451,sin periodicidad,True,,,,12.5,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+sican,data/raw/met/images/met_307452.jpg,,Intermedio Tardio,met,307452,periodicidad debil,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,costa norte,,,,,,,0.3062,
+chimu,data/raw/met/images/met_307454.jpg,p11m,Intermedio Tardio,met,307454,ok,True,0.0,0.0,1,0.76,0.5385,0.4576,Textiles-Woven,22.0,,0.0,,0.0,0.5385,0.4576,no determinada,0.1481,0.4358,0.1214,0.1777,1,0.4437,0.6338,pm
+no determinada,data/raw/met/images/met_307455.jpg,p2,no determinado,met,307455,ok,True,0.0,0.0,1,2.79,0.3833,0.5583,Textiles-Woven,79.0,,0.3038,,0.0,0.3833,0.5583,costa central,0.2442,0.4281,0.2419,0.1916,2,0.4096,0.4896,pmm
+no determinada,data/raw/met/images/met_307456.jpg,,no determinado,met,307456,sin periodicidad,True,,,,1.68,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+no determinada,data/raw/met/images/met_307457.jpg,,no determinado,met,307457,sin periodicidad,True,,,,1.22,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+no determinada,data/raw/met/images/met_307458.jpg,,no determinado,met,307458,periodicidad debil,True,,,,0.92,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.2181,
+no determinada,data/raw/met/images/met_307459.jpg,p2mm,no determinado,met,307459,ok,True,0.0,0.0,1,11.77,0.3567,0.3336,Textiles-Woven,17.0,,0.0,,0.0,0.3567,0.3336,costa central,0.189,0.3706,0.1462,0.1961,2,0.3267,0.4667,pmm
+no determinada,data/raw/met/images/met_307460.jpg,,no determinado,met,307460,sin periodicidad,True,,,,2.1,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+chimu,data/raw/met/images/met_307471.jpg,,Intermedio Tardio,met,307471,periodicidad debil,True,,,,2.85,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3972,
+wari,data/raw/met/images/met_307674.jpg,,Horizonte Medio,met,307674,sin periodicidad,False,,,,0.97,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_307675.jpg,p2mm,Horizonte Medio,met,307675,ok,False,0.0,0.0,1,0.91,0.7935,0.8437,Textiles-Woven,70.0,,0.0,,0.0,0.7935,0.8437,no determinada,0.3938,0.799,0.4321,0.227,2,0.5801,0.6607,pmm
+paracas,data/raw/met/images/met_307676.jpg,p2mm,Horizonte Temprano,met,307676,ok,False,0.0,0.0,1,3.22,0.7913,0.7728,Textiles-Trimmings,,62.0,,0.0484,0.0,0.7913,0.7728,costa sur,0.1012,0.7471,0.1212,0.241,2,0.4914,0.702,pmm
+paracas,data/raw/met/images/met_307677.jpg,,Horizonte Temprano,met,307677,sin periodicidad,False,,,,3.1,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_307678.jpg,,Horizonte Temprano,met,307678,sin periodicidad,False,,,,2.95,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_307679.jpg,,Horizonte Temprano,met,307679,sin periodicidad,False,,,,3.1,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_307680.jpg,,Horizonte Temprano,met,307680,sin periodicidad,False,,,,3.1,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_307682.jpg,,Horizonte Temprano,met,307682,sin periodicidad,False,,,,3.34,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_307683.jpg,,Horizonte Temprano,met,307683,sin periodicidad,False,,,,3.87,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+chimu,data/raw/met/images/met_307684.jpg,,Intermedio Tardio,met,307684,periodicidad debil,False,,,,6.27,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3055,
+no determinada,data/raw/met/images/met_307685.jpg,,no determinado,met,307685,periodicidad debil,True,,,,5.58,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.3963,
+no determinada,data/raw/met/images/met_307798.jpg,p1m1,no determinado,met,307798,ok,True,0.3982,0.0,1,1.34,0.0,0.7344,Textiles-Woven,92.0,,0.4348,,0.62,0.3982,0.7344,costa central,0.0984,0.3899,0.1199,0.1865,1,0.4624,0.6605,pm
+no determinada,data/raw/met/images/met_307799.jpg,,no determinado,met,307799,periodicidad debil,True,,,,0.57,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.2313,
+chimu,data/raw/met/images/met_307800.jpg,p1m1,Intermedio Tardio,met,307800,ok,True,0.0,0.0,1,0.44,0.2657,0.3601,Textiles-Woven,17.0,,0.2353,,0.0,0.2657,0.3601,no determinada,0.1426,0.2927,0.1887,0.1656,1,0.323,0.4615,pm
+no determinada,data/raw/met/images/met_307804.jpg,,no determinado,met,307804,periodicidad debil,False,,,,2.5,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.2624,
+no determinada,data/raw/met/images/met_307805.jpg,,no determinado,met,307805,periodicidad debil,True,,,,2.38,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.2904,
+chancay,data/raw/met/images/met_307806.jpg,p1,Intermedio Tardio,met,307806,ok,False,0.0,0.0,2,0.66,0.1933,0.2784,Textiles-Woven,15.0,19.0,0.1333,0.0,0.0,0.1933,0.2784,no determinada,0.2563,0.2259,0.2621,0.2219,1,0.3815,0.4945,p1
+no determinada,data/raw/met/images/met_307807.jpg,p2mm,no determinado,met,307807,ok,True,0.0,0.0,1,1.12,0.6171,0.7401,Textiles-Woven,31.0,,0.0968,,0.0,0.6171,0.7401,costa central,0.1263,0.5949,0.1325,0.129,2,0.4807,0.6867,pmm
+no determinada,data/raw/met/images/met_307808.jpg,,no determinado,met,307808,sin periodicidad,True,,,,1.51,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+no determinada,data/raw/met/images/met_307809.jpg,,no determinado,met,307809,periodicidad debil,True,,,,1.73,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.2903,
+no determinada,data/raw/met/images/met_307811.jpg,,no determinado,met,307811,sin periodicidad,True,,,,2.22,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+no determinada,data/raw/met/images/met_307812.jpg,,no determinado,met,307812,periodicidad debil,True,,,,1.9,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.2544,
+no determinada,data/raw/met/images/met_307813.jpg,,no determinado,met,307813,sin periodicidad,False,,,,1.38,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+no determinada,data/raw/met/images/met_307814.jpg,p2mm,no determinado,met,307814,ok,True,0.0,0.0,1,0.72,0.6963,0.8072,Textiles-Woven,,57.0,,0.0526,0.0,0.6963,0.8072,costa central,0.225,0.7226,0.1935,0.2364,2,0.3422,0.4889,pmm
+no determinada,data/raw/met/images/met_307815.jpg,p1,no determinado,met,307815,ok,False,0.0,0.0,1,2.17,0.576,0.6129,Textiles-Woven,15.0,,0.0,,0.0,0.576,0.6129,costa sur,0.533,0.5277,0.5076,0.4155,1,0.6406,0.6686,p1
+no determinada,data/raw/met/images/met_307819.jpg,p1,no determinado,met,307819,ok,True,0.0,0.0,1,3.07,0.6634,0.7276,Textiles-Woven,76.0,,0.0789,,41.95,0.6634,0.7276,costa central,0.327,0.6898,0.3656,0.1797,1,0.7528,0.6203,p1
+chimu,data/raw/met/images/met_307820.jpg,p2mm,Intermedio Tardio,met,307820,ok,False,0.0,0.0,1,10.6,0.6449,0.7477,Textiles-Woven,55.0,,0.1636,,0.0,0.6449,0.7477,no determinada,0.2324,0.6395,0.2711,0.1998,2,0.6105,0.6625,pmm
+no determinada,data/raw/met/images/met_307821.jpg,,no determinado,met,307821,periodicidad debil,True,,,,0.42,,,Textiles-Woven,,,,,-33.02,,,costa central,,,,,,,0.263,
+no determinada,data/raw/met/images/met_307822.jpg,,no determinado,met,307822,sin periodicidad,True,,,,3.26,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+no determinada,data/raw/met/images/met_307823.jpg,,no determinado,met,307823,sin periodicidad,True,,,,1.2,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+no determinada,data/raw/met/images/met_307824.jpg,,no determinado,met,307824,periodicidad debil,True,,,,2.03,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.2567,
+no determinada,data/raw/met/images/met_307836.jpg,,no determinado,met,307836,periodicidad debil,False,,,,3.45,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.268,
+nasca,data/raw/met/images/met_307841.jpg,,Intermedio Temprano,met,307841,periodicidad debil,False,,,,1.66,,,Textiles-Woven,,,,,45.0,,,no determinada,,,,,,,0.2418,
+nasca,data/raw/met/images/met_307843.jpg,,Intermedio Temprano,met,307843,periodicidad debil,False,,,,2.41,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.1759,
+nasca,data/raw/met/images/met_307844.jpg,,Intermedio Temprano,met,307844,periodicidad debil,False,,,,2.06,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3157,
+nasca,data/raw/met/images/met_307845.jpg,,Intermedio Temprano,met,307845,periodicidad debil,False,,,,1.25,,,Textiles-Woven,,,,,34.33,,,no determinada,,,,,,,0.2385,
+inca,data/raw/met/images/met_307846.jpg,p2mm,Horizonte Tardio,met,307846,ok,False,0.0,0.0,1,5.29,0.7435,0.7561,Textiles-Woven,68.0,,0.0,,0.0,0.7435,0.7561,no determinada,0.3253,0.7612,0.3518,0.2921,2,0.4451,0.5464,pmm
+no determinada,data/raw/met/images/met_307847.jpg,,no determinado,met,307847,periodicidad debil,True,,,,6.28,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.2686,
+no determinada,data/raw/met/images/met_307848.jpg,p2mm,no determinado,met,307848,ok,True,0.0,0.0,2,6.34,0.4022,0.4325,Textiles-Woven,54.0,31.0,0.0,0.0,0.0,0.4022,0.4325,costa norte,0.2297,0.3872,0.2111,0.1874,2,0.3664,0.5234,pmm
+chimu,data/raw/met/images/met_307849.jpg,,Intermedio Tardio,met,307849,periodicidad debil,False,,,,11.38,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2384,
+paracas,data/raw/met/images/met_307850.jpg,,Horizonte Temprano,met,307850,periodicidad debil,False,,,,0.53,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.3035,
+paracas,data/raw/met/images/met_307851.jpg,,Horizonte Temprano,met,307851,periodicidad debil,False,,,,2.42,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.4418,
+paracas,data/raw/met/images/met_307852.jpg,,Horizonte Temprano,met,307852,sin periodicidad,False,,,,2.45,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_307853.jpg,,Horizonte Temprano,met,307853,sin periodicidad,False,,,,0.36,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_307854.jpg,,Horizonte Temprano,met,307854,sin periodicidad,False,,,,2.65,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_307855.jpg,,Horizonte Temprano,met,307855,periodicidad debil,False,,,,2.56,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.1356,
+no determinada,data/raw/met/images/met_307886.jpg,,no determinado,met,307886,periodicidad debil,True,,,,1.98,,,Textiles-Woven,,,,,2.39,,,costa central,,,,,,,0.3791,
+chimu,data/raw/met/images/met_307887.jpg,p2mm,Intermedio Tardio,met,307887,ok,False,0.0,0.0,1,4.1,0.7053,0.6262,Textiles-Woven,25.0,,0.0,,0.0,0.7053,0.6262,no determinada,0.2074,0.618,0.2326,0.1562,2,0.4691,0.6702,pmm
+wari,data/raw/met/images/met_307901.jpg,,Horizonte Medio,met,307901,periodicidad debil,False,,,,0.95,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2257,
+no determinada,data/raw/met/images/met_307907.jpg,,no determinado,met,307907,sin periodicidad,True,,,,3.53,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+no determinada,data/raw/met/images/met_307908.jpg,,no determinado,met,307908,periodicidad debil,True,,,,6.46,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.323,
+chimu,data/raw/met/images/met_307909.jpg,,Intermedio Tardio,met,307909,periodicidad debil,False,,,,9.86,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2349,
+sican,data/raw/met/images/met_307910.jpg,,Intermedio Tardio,met,307910,sin periodicidad,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,costa norte,,,,,,,,
+chimu,data/raw/met/images/met_307911.jpg,,Intermedio Tardio,met,307911,periodicidad debil,True,,,,10.6,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2635,
+no determinada,data/raw/met/images/met_307912.jpg,p2mm,no determinado,met,307912,ok,True,0.0,0.0,1,2.91,0.7297,0.7596,Textiles-Woven,,80.0,,0.225,0.0,0.7297,0.7596,costa central,0.11,0.7232,0.1094,0.0936,2,0.4433,0.6333,pmm
+no determinada,data/raw/met/images/met_307913.jpg,,no determinado,met,307913,sin periodicidad,True,,,,5.53,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+no determinada,data/raw/met/images/met_307914.jpg,,no determinado,met,307914,sin periodicidad,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+chimu,data/raw/met/images/met_307915.jpg,,Intermedio Tardio,met,307915,sin periodicidad,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_307916.jpg,,no determinado,met,307916,sin periodicidad,True,,,,3.03,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+no determinada,data/raw/met/images/met_307917.jpg,p2,no determinado,met,307917,ok,True,0.0,0.7072,1,2.58,0.6601,0.0,Textiles-Woven,,35.0,,0.4857,0.0,0.6601,0.7072,costa central,0.1771,0.6665,0.1849,0.1853,2,0.3841,0.5488,pmg
+no determinada,data/raw/met/images/met_307918.jpg,,no determinado,met,307918,sin periodicidad,True,,,,6.23,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+sican,data/raw/met/images/met_307919.jpg,,Intermedio Tardio,met,307919,sin periodicidad,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,costa norte,,,,,,,,
+sican,data/raw/met/images/met_307920.jpg,,Intermedio Tardio,met,307920,periodicidad debil,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,costa norte,,,,,,,0.4497,
+chimu,data/raw/met/images/met_307921.jpg,,Intermedio Tardio,met,307921,sin periodicidad,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+sican,data/raw/met/images/met_307922.jpg,,Intermedio Tardio,met,307922,sin periodicidad,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,costa norte,,,,,,,,
+sican,data/raw/met/images/met_307923.jpg,p1m1,Intermedio Tardio,met,307923,ok,False,0.0,0.0,1,10.6,0.7447,0.8496,Textiles-Woven,54.0,,0.2407,,0.0,0.7447,0.8496,costa norte,0.669,0.735,0.6582,0.6496,1,0.7975,0.6942,pm
+sican,data/raw/met/images/met_307924.jpg,,Intermedio Tardio,met,307924,sin periodicidad,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,costa norte,,,,,,,,
+sican,data/raw/met/images/met_307925.jpg,,Intermedio Tardio,met,307925,sin periodicidad,False,,,,8.25,,,Textiles-Woven,,,,,0.0,,,costa norte,,,,,,,,
+chimu,data/raw/met/images/met_307926.jpg,,Intermedio Tardio,met,307926,periodicidad debil,False,,,,5.06,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3652,
+no determinada,data/raw/met/images/met_307927.jpg,,no determinado,met,307927,sin periodicidad,True,,,,1.23,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+no determinada,data/raw/met/images/met_307928.jpg,,no determinado,met,307928,sin periodicidad,True,,,,10.6,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+no determinada,data/raw/met/images/met_307929.jpg,,no determinado,met,307929,sin periodicidad,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,,
+chimu,data/raw/met/images/met_307930.jpg,,Intermedio Tardio,met,307930,sin periodicidad,False,,,,10.65,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_307931.jpg,,Intermedio Tardio,met,307931,sin periodicidad,False,,,,6.22,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+sican,data/raw/met/images/met_307932.jpg,,Intermedio Tardio,met,307932,sin periodicidad,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,costa norte,,,,,,,,
+nasca,data/raw/met/images/met_307933.jpg,,Intermedio Temprano,met,307933,sin periodicidad,True,,,,10.6,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_307934.jpg,,Intermedio Tardio,met,307934,sin periodicidad,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_307935.jpg,p1,Intermedio Tardio,met,307935,ok,False,0.0,0.0,1,8.27,0.3824,0.4123,Textiles-Woven,25.0,,0.32,,0.0,0.3824,0.4123,no determinada,0.343,0.3421,0.3694,0.3557,1,0.4682,0.5489,p1
+no determinada,data/raw/met/images/met_307936.jpg,p2mm,no determinado,met,307936,ok,True,0.0,0.0,1,4.51,0.7539,0.7745,Textiles-Woven,,74.0,,0.0,0.0,0.7539,0.7745,costa central,0.2362,0.7365,0.2219,0.2219,2,0.4438,0.5051,pmm
+no determinada,data/raw/met/images/met_307938.jpg,p2mm,no determinado,met,307938,ok,True,0.0,0.0,1,0.88,0.6381,0.6661,Textiles-Woven,,52.0,,0.0,0.0,0.6381,0.6661,costa central,0.0789,0.7435,0.0632,0.065,2,0.4365,0.6235,pmm
+sican,data/raw/met/images/met_307939.jpg,p2mm,Intermedio Tardio,met,307939,ok,False,0.0,0.0,1,2.55,0.7451,0.8128,Textiles-Woven,,25.0,,0.0,0.0,0.7451,0.8128,costa norte,0.1678,0.7791,0.1226,0.1265,2,0.4706,0.6722,pmm
+chancay,data/raw/met/images/met_307940.jpg,p1,Intermedio Tardio,met,307940,ok,False,0.0,0.0,1,6.29,0.5067,0.5655,Textiles-Woven,16.0,,0.0,,0.0,0.5067,0.5655,no determinada,0.4841,0.4622,0.5007,0.5382,1,0.5763,0.5421,p1
+inca,data/raw/met/images/met_307941.jpg,,Horizonte Tardio,met,307941,periodicidad debil,False,,,,2.08,,,Textiles-Woven,,,,,-1.79,,,no determinada,,,,,,,0.4018,
+chimu,data/raw/met/images/met_307942.jpg,,Intermedio Tardio,met,307942,sin periodicidad,False,,,,8.21,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chancay,data/raw/met/images/met_307943.jpg,p1,Intermedio Tardio,met,307943,ok,False,0.0,0.0,1,2.35,0.5134,0.5032,Textiles-Woven,,38.0,,0.2895,0.0,0.5134,0.5032,no determinada,0.3603,0.4514,0.3052,0.3543,1,0.5362,0.4922,p1
+chimu,data/raw/met/images/met_307944.jpg,,Intermedio Tardio,met,307944,sin periodicidad,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_307945.jpg,p2mm,Intermedio Tardio,met,307945,ok,False,0.0,0.0,1,11.93,0.4902,0.473,Textiles-Woven,,32.0,,0.0,0.0,0.4902,0.473,no determinada,0.1398,0.4502,0.1582,0.1524,2,0.3264,0.4662,pmm
+no determinada,data/raw/met/images/met_307946.jpg,p1,no determinado,met,307946,ok,True,0.0,0.0,1,6.34,0.3259,0.2856,Textiles-Woven,20.0,,0.0,,0.0,0.3259,0.2856,costa central,0.1011,0.1479,0.1282,0.1857,1,0.3426,0.4895,p1
+no determinada,data/raw/met/images/met_307947.jpg,,no determinado,met,307947,periodicidad debil,True,,,,2.11,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.421,
+no determinada,data/raw/met/images/met_307948.jpg,,no determinado,met,307948,periodicidad debil,True,,,,0.37,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.3793,
+no determinada,data/raw/met/images/met_307949.jpg,p2mm,no determinado,met,307949,ok,True,0.0,0.0,1,2.46,0.6111,0.7943,Textiles-Woven,34.0,,0.0,,0.0,0.6111,0.7943,costa central,0.2477,0.5799,0.1969,0.2144,2,0.5324,0.7606,pmm
+nasca,data/raw/met/images/met_307950.jpg,,Intermedio Temprano,met,307950,periodicidad debil,False,,,,12.64,,,Textiles-Woven,,,,,-1.02,,,no determinada,,,,,,,0.3519,
+nasca,data/raw/met/images/met_307952.jpg,,Intermedio Temprano,met,307952,sin periodicidad,True,,,,3.41,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_307953.jpg,p2mm,Intermedio Temprano,met,307953,ok,False,0.0,0.0,1,1.21,0.5071,0.6831,Textiles-Woven,51.0,,0.0,,0.0,0.5071,0.6831,no determinada,0.2166,0.5387,0.2392,0.1937,2,0.397,0.5671,pmm
+wari,data/raw/met/images/met_307954.jpg,,Horizonte Medio,met,307954,sin periodicidad,False,,,,3.62,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_307955.jpg,,no determinado,met,307955,periodicidad debil,True,,,,1.65,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.2282,
+recuay,data/raw/met/images/met_307956.jpg,p2mm,Intermedio Temprano,met,307956,ok,False,0.0,0.0,1,3.8,0.8273,0.7926,Textiles-Woven,27.0,,0.1481,,0.0,0.8273,0.7926,no determinada,0.0635,0.8255,0.0538,0.0628,2,0.5649,0.807,pmm
+nasca,data/raw/met/images/met_307957.jpg,,Intermedio Temprano,met,307957,sin periodicidad,False,,,,0.83,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_307958.jpg,,Intermedio Temprano,met,307958,sin periodicidad,False,,,,1.04,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_307959.jpg,,Intermedio Temprano,met,307959,sin periodicidad,False,,,,0.86,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_307960.jpg,p2mm,Intermedio Temprano,met,307960,ok,False,0.0,0.0,1,1.32,0.624,0.5996,Textiles-Woven,33.0,,0.2727,,0.0,0.624,0.5996,no determinada,0.1835,0.5843,0.193,0.2128,2,0.4448,0.6355,pmm
+nasca,data/raw/met/images/met_307961.jpg,p2mm,Intermedio Temprano,met,307961,ok,False,0.0,0.0,1,3.98,0.7509,0.8068,Textiles-Woven,,140.0,,0.0357,0.0,0.7509,0.8068,no determinada,0.2887,0.7505,0.2569,0.2597,2,0.5136,0.5354,pmm
+nasca,data/raw/met/images/met_307962.jpg,,Intermedio Temprano,met,307962,sin periodicidad,False,,,,2.7,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_307963.jpg,,Intermedio Temprano,met,307963,periodicidad debil,False,,,,2.22,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3691,
+nasca,data/raw/met/images/met_307964.jpg,,Intermedio Temprano,met,307964,sin periodicidad,False,,,,0.8,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_307965.jpg,,Intermedio Temprano,met,307965,sin periodicidad,False,,,,0.8,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_307966.jpg,p2mm,Intermedio Temprano,met,307966,ok,False,0.0,0.0,1,1.43,0.5659,0.6414,Textiles-Woven,61.0,,0.0,,0.0,0.5659,0.6414,no determinada,0.1251,0.6106,0.1144,0.1052,2,0.3903,0.5576,pmm
+nasca,data/raw/met/images/met_307967.jpg,p2mm,Intermedio Temprano,met,307967,ok,False,0.0,0.0,1,1.43,0.5659,0.6414,Textiles-Woven,61.0,,0.0,,0.0,0.5659,0.6414,no determinada,0.1251,0.6106,0.1144,0.1052,2,0.3903,0.5576,pmm
+nasca,data/raw/met/images/met_307968.jpg,p2mm,Intermedio Temprano,met,307968,ok,False,0.0,0.0,1,1.12,0.6583,0.5907,Textiles-Woven,88.0,,0.0,,0.0,0.6583,0.5907,no determinada,0.1478,0.5797,0.1565,0.146,2,0.341,0.4872,pmm
+nasca,data/raw/met/images/met_307970.jpg,p2mg,Intermedio Temprano,met,307970,ok,False,0.8474,0.0,1,8.44,0.0,0.8637,Textiles-Woven,153.0,,0.3856,,-1.5,0.8474,0.8637,no determinada,0.0856,0.8538,0.1091,0.0913,2,0.5751,0.8216,pmg
+nasca,data/raw/met/images/met_307971.jpg,p2mm,Intermedio Temprano,met,307971,ok,False,0.0,0.0,1,1.09,0.7163,0.6957,Textiles-Woven,32.0,,0.0,,0.0,0.7163,0.6957,no determinada,0.2654,0.6015,0.2199,0.2753,2,0.442,0.6314,pmm
+nasca,data/raw/met/images/met_307972.jpg,,Intermedio Temprano,met,307972,sin periodicidad,False,,,,1.16,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_307974.jpg,p2mm,no determinado,met,307974,ok,True,0.0,0.0,1,1.77,0.7943,0.7965,Textiles-Woven,162.0,,0.0,,0.0,0.7943,0.7965,costa central,0.104,0.7802,0.1196,0.1707,2,0.3901,0.5573,pmm
+nasca,data/raw/met/images/met_307975.jpg,p2mm,Intermedio Temprano,met,307975,ok,False,0.0,0.0,1,1.83,0.3796,0.5418,Textiles-Woven,53.0,,0.0,,0.0,0.3796,0.5418,no determinada,0.1444,0.3851,0.1547,0.132,2,0.3156,0.4509,pmm
+no determinada,data/raw/met/images/met_307976.jpg,,no determinado,met,307976,periodicidad debil,True,,,,0.36,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.3788,
+chimu,data/raw/met/images/met_307977.jpg,,Intermedio Tardio,met,307977,sin periodicidad,False,,,,13.02,,,Feathers-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_307988.jpg,p2mm,Horizonte Medio,met,307988,ok,False,0.0,0.0,1,4.75,0.6315,0.6289,Textiles-Woven,,26.0,,0.0,0.0,0.6315,0.6289,no determinada,0.1739,0.6079,0.1592,0.1868,2,0.4435,0.6336,pmm
+wari,data/raw/met/images/met_307989.jpg,,Horizonte Medio,met,307989,periodicidad debil,False,,,,5.46,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.4112,
+wari,data/raw/met/images/met_307990.jpg,,Horizonte Medio,met,307990,periodicidad debil,False,,,,0.72,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2644,
+wari,data/raw/met/images/met_307991.jpg,,Horizonte Medio,met,307991,sin periodicidad,False,,,,6.28,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_307992.jpg,,Horizonte Medio,met,307992,periodicidad debil,False,,,,5.25,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2031,
+no determinada,data/raw/met/images/met_307993.jpg,,no determinado,met,307993,periodicidad debil,True,,,,6.32,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.3139,
+recuay,data/raw/met/images/met_307994.jpg,,Intermedio Temprano,met,307994,periodicidad debil,False,,,,7.3,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2854,
+wari,data/raw/met/images/met_307995.jpg,p2mm,Horizonte Medio,met,307995,ok,False,0.0,0.0,1,3.61,0.3815,0.4861,Textiles-Woven,152.0,,0.0,,0.0,0.3815,0.4861,no determinada,0.2094,0.3827,0.2374,0.2395,2,0.3268,0.4669,pmm
+wari,data/raw/met/images/met_307996.jpg,p11m,Horizonte Medio,met,307996,ok,False,0.0,0.0,1,3.33,0.6457,0.5597,Textiles-Woven,,80.0,,0.0,0.0,0.6457,0.5597,no determinada,0.3218,0.5649,0.3853,0.1849,1,0.5827,0.5441,pm
+wari,data/raw/met/images/met_307997.jpg,,Horizonte Medio,met,307997,periodicidad debil,False,,,,3.19,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3903,
+no determinada,data/raw/met/images/met_307998.jpg,p2mm,no determinado,met,307998,ok,True,0.0,0.0,1,2.92,0.6609,0.6824,Textiles-Woven,,36.0,,0.3056,0.0,0.6609,0.6824,costa sur,0.1642,0.6859,0.1744,0.1593,2,0.4411,0.6302,pmm
+nasca,data/raw/met/images/met_308012.jpg,,Intermedio Temprano,met,308012,sin periodicidad,False,,,,4.49,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_308013.jpg,,Intermedio Temprano,met,308013,sin periodicidad,False,,,,1.0,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_308014.jpg,p1m1,Horizonte Medio,met,308014,ok,False,0.4686,0.0,1,3.21,0.0,0.5239,Textiles-Woven,23.0,,0.3913,,0.0,0.4686,0.5239,no determinada,0.2686,0.3428,0.2658,0.2423,1,0.4382,0.4621,cm
+nasca,data/raw/met/images/met_308015.jpg,,Intermedio Temprano,met,308015,periodicidad debil,False,,,,2.77,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3258,
+nasca,data/raw/met/images/met_308016.jpg,,Intermedio Temprano,met,308016,periodicidad debil,False,,,,2.64,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2227,
+nasca,data/raw/met/images/met_308017.jpg,,Intermedio Temprano,met,308017,sin periodicidad,False,,,,3.14,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_308018.jpg,,Intermedio Temprano,met,308018,sin periodicidad,False,,,,1.61,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_308019.jpg,,Intermedio Temprano,met,308019,sin periodicidad,False,,,,1.38,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_308020.jpg,,Intermedio Temprano,met,308020,periodicidad debil,False,,,,1.77,,,Textiles-Woven,,,,,-39.81,,,no determinada,,,,,,,0.4347,
+nasca,data/raw/met/images/met_308021.jpg,,Intermedio Temprano,met,308021,periodicidad debil,False,,,,1.51,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3141,
+nasca,data/raw/met/images/met_308022.jpg,,Intermedio Temprano,met,308022,sin periodicidad,False,,,,12.12,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_308023.jpg,,Intermedio Temprano,met,308023,periodicidad debil,False,,,,2.09,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.4247,
+nasca,data/raw/met/images/met_308024.jpg,,Intermedio Temprano,met,308024,sin periodicidad,False,,,,10.63,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_308025.jpg,,Intermedio Temprano,met,308025,periodicidad debil,False,,,,1.25,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2152,
+nasca,data/raw/met/images/met_308026.jpg,,Intermedio Temprano,met,308026,periodicidad debil,False,,,,1.83,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.1273,
+nasca,data/raw/met/images/met_308027.jpg,,Intermedio Temprano,met,308027,periodicidad debil,False,,,,1.67,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3145,
+nasca,data/raw/met/images/met_308028.jpg,p2mm,Intermedio Temprano,met,308028,ok,False,0.0,0.0,1,2.03,0.4892,0.4698,Textiles-Woven,87.0,,0.1724,,0.0,0.4892,0.4698,no determinada,0.2453,0.4426,0.2814,0.2759,2,0.3744,0.4508,pmm
+nasca,data/raw/met/images/met_308029.jpg,,Intermedio Temprano,met,308029,periodicidad debil,False,,,,1.88,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3449,
+wari,data/raw/met/images/met_308030.jpg,,Horizonte Medio,met,308030,periodicidad debil,False,,,,6.28,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2822,
+paracas,data/raw/met/images/met_308031.jpg,,Horizonte Temprano,met,308031,periodicidad debil,False,,,,1.71,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.1233,
+paracas,data/raw/met/images/met_308036.jpg,,Horizonte Temprano,met,308036,sin periodicidad,False,,,,3.63,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+nasca,data/raw/met/images/met_308038.jpg,p2mg,Intermedio Temprano,met,308038,ok,False,0.7831,0.0,1,1.7,0.0,0.775,Textiles-Woven,199.0,,0.3568,,0.0,0.7831,0.775,no determinada,0.1758,0.7357,0.1866,0.1937,2,0.4137,0.591,pmg
+paracas,data/raw/met/images/met_308039.jpg,,Horizonte Temprano,met,308039,periodicidad debil,False,,,,3.54,,,Textiles-Woven,,,,,-2.73,,,costa sur,,,,,,,0.4076,
+paracas,data/raw/met/images/met_308040.jpg,,Horizonte Temprano,met,308040,periodicidad debil,False,,,,3.54,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.3833,
+nasca,data/raw/met/images/met_308041.jpg,p2mg,Intermedio Temprano,met,308041,ok,False,0.6259,0.0,1,0.78,0.0,0.7191,Textiles-Woven,39.0,,0.359,,0.0,0.6259,0.7191,no determinada,0.0936,0.6147,0.0971,0.1151,2,0.46,0.6572,pmg
+paracas,data/raw/met/images/met_308042.jpg,,Horizonte Temprano,met,308042,sin periodicidad,False,,,,2.56,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308043.jpg,,Horizonte Temprano,met,308043,periodicidad debil,False,,,,0.34,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.2353,
+paracas,data/raw/met/images/met_308046.jpg,,Horizonte Temprano,met,308046,periodicidad debil,False,,,,1.11,,,Textiles-Velvets,,,,,0.0,,,costa sur,,,,,,,0.1677,
+paracas,data/raw/met/images/met_308052.jpg,,Horizonte Temprano,met,308052,periodicidad debil,False,,,,0.3,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.2331,
+paracas,data/raw/met/images/met_308053.jpg,,Horizonte Temprano,met,308053,periodicidad debil,False,,,,0.33,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.2336,
+paracas,data/raw/met/images/met_308056.jpg,,Horizonte Temprano,met,308056,periodicidad debil,False,,,,0.35,,,Textiles-Woven,,,,,1.68,,,costa sur,,,,,,,0.3387,
+paracas,data/raw/met/images/met_308057.jpg,,Horizonte Temprano,met,308057,sin periodicidad,False,,,,0.35,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308058.jpg,,Horizonte Temprano,met,308058,sin periodicidad,False,,,,0.3,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308059.jpg,,Horizonte Temprano,met,308059,periodicidad debil,False,,,,0.44,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.2675,
+paracas,data/raw/met/images/met_308062.jpg,,Horizonte Temprano,met,308062,periodicidad debil,False,,,,0.3,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.2806,
+paracas,data/raw/met/images/met_308070.jpg,,Horizonte Temprano,met,308070,sin periodicidad,False,,,,0.34,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308072.jpg,,Horizonte Temprano,met,308072,periodicidad debil,False,,,,0.34,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.3269,
+paracas,data/raw/met/images/met_308074.jpg,,Horizonte Temprano,met,308074,sin periodicidad,False,,,,0.37,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308075.jpg,,Horizonte Temprano,met,308075,sin periodicidad,False,,,,1.79,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308076.jpg,,Horizonte Temprano,met,308076,sin periodicidad,False,,,,3.87,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308077.jpg,,Horizonte Temprano,met,308077,periodicidad debil,False,,,,3.1,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.2681,
+paracas,data/raw/met/images/met_308078.jpg,p2mm,Horizonte Temprano,met,308078,ok,False,0.0,0.0,1,4.25,0.8733,0.9373,Textiles-Woven,,111.0,,0.3063,0.0,0.8733,0.9373,costa sur,0.1102,0.8674,0.1236,0.1896,2,0.5484,0.7834,pmm
+inca,data/raw/met/images/met_308079.jpg,,Horizonte Tardio,met,308079,periodicidad debil,False,,,,2.37,,,Textiles-Woven,,,,,-1.01,,,no determinada,,,,,,,0.1892,
+sican,data/raw/met/images/met_308080.jpg,p2mm,Intermedio Tardio,met,308080,ok,False,0.0,0.0,1,2.44,0.6341,0.7389,Textiles-Woven,,65.0,,0.2462,0.0,0.6341,0.7389,costa norte,0.1197,0.6317,0.1659,0.202,2,0.3798,0.4632,pmm
+no determinada,data/raw/met/images/met_308082.jpg,,no determinado,met,308082,periodicidad debil,True,,,,3.23,,,Textiles-Woven,,,,,0.0,,,costa norte,,,,,,,0.2861,
+inca,data/raw/met/images/met_308083.jpg,,Horizonte Tardio,met,308083,periodicidad debil,True,,,,2.35,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3882,
+no determinada,data/raw/met/images/met_308085.jpg,p2mm,no determinado,met,308085,ok,True,0.0,0.0,1,1.73,0.5194,0.7407,Textiles-Woven,18.0,,0.0,,0.0,0.5194,0.7407,costa central,0.2377,0.5342,0.2309,0.3584,2,0.4754,0.5263,pmm
+no determinada,data/raw/met/images/met_308086.jpg,,no determinado,met,308086,periodicidad debil,True,,,,1.16,,,Textiles-Woven,,,,,0.0,,,costa central,,,,,,,0.338,
+wari,data/raw/met/images/met_308088.jpg,,Horizonte Medio,met,308088,periodicidad debil,False,,,,2.52,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3409,
+no determinada,data/raw/met/images/met_308089.jpg,p2mg,no determinado,met,308089,ok,True,0.4759,0.0,1,5.79,0.0,0.5735,Textiles-Woven,81.0,,0.3704,,0.0,0.4759,0.5735,costa central,0.2374,0.4363,0.2472,0.1787,2,0.3695,0.4609,pmg
+wari,data/raw/met/images/met_308090.jpg,,Horizonte Medio,met,308090,periodicidad debil,False,,,,1.8,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3802,
+chimu,data/raw/met/images/met_308091.jpg,p2mm,Intermedio Tardio,met,308091,ok,False,0.0,0.0,1,10.6,0.3454,0.4826,Textiles-Woven,14.0,,0.0,,0.0,0.3454,0.4826,no determinada,0.108,0.3742,0.0914,0.0808,2,0.3256,0.4651,pmm
+wari,data/raw/met/images/met_308092.jpg,,Horizonte Medio,met,308092,periodicidad debil,False,,,,2.97,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2866,
+ica,data/raw/met/images/met_308093.jpg,p2mm,Intermedio Tardio,met,308093,ok,False,0.0,0.0,1,4.36,0.8247,0.814,Textiles-Woven,28.0,,0.25,,0.0,0.8247,0.814,no determinada,0.2194,0.8142,0.1573,0.2289,2,0.5674,0.8106,pmm
+wari,data/raw/met/images/met_308094.jpg,,Horizonte Medio,met,308094,periodicidad debil,False,,,,2.6,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.245,
+no determinada,data/raw/met/images/met_308095.jpg,p1,no determinado,met,308095,ok,True,0.0,0.0,2,2.45,0.395,0.5088,Textiles-Woven,15.0,16.0,0.0,0.0,0.0,0.395,0.5088,costa norte,0.3957,0.3734,0.3216,0.3418,1,0.5132,0.4686,p1
+no determinada,data/raw/met/images/met_308096.jpg,,no determinado,met,308096,sin periodicidad,True,,,,3.14,,,Textiles-Woven,,,,,0.0,,,costa norte,,,,,,,,
+paracas,data/raw/met/images/met_308097.jpg,,Horizonte Temprano,met,308097,sin periodicidad,False,,,,2.51,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308098.jpg,,Horizonte Temprano,met,308098,periodicidad debil,False,,,,2.27,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.4276,
+paracas,data/raw/met/images/met_308099.jpg,,Horizonte Temprano,met,308099,periodicidad debil,False,,,,3.08,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.2296,
+paracas,data/raw/met/images/met_308100.jpg,,Horizonte Temprano,met,308100,sin periodicidad,False,,,,0.59,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308101.jpg,,Horizonte Temprano,met,308101,sin periodicidad,False,,,,3.1,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308102.jpg,,Horizonte Temprano,met,308102,periodicidad debil,False,,,,0.39,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.1653,
+paracas,data/raw/met/images/met_308103.jpg,,Horizonte Temprano,met,308103,sin periodicidad,False,,,,3.01,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308104.jpg,,Horizonte Temprano,met,308104,periodicidad debil,False,,,,2.68,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.2213,
+paracas,data/raw/met/images/met_308105.jpg,,Horizonte Temprano,met,308105,sin periodicidad,False,,,,2.51,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308106.jpg,,Horizonte Temprano,met,308106,sin periodicidad,False,,,,3.63,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308107.jpg,,Horizonte Temprano,met,308107,periodicidad debil,False,,,,2.53,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.2067,
+paracas,data/raw/met/images/met_308108.jpg,,Horizonte Temprano,met,308108,periodicidad debil,False,,,,2.65,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.196,
+paracas,data/raw/met/images/met_308109.jpg,,Horizonte Temprano,met,308109,sin periodicidad,False,,,,1.67,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308110.jpg,,Horizonte Temprano,met,308110,sin periodicidad,False,,,,3.03,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308112.jpg,,Horizonte Temprano,met,308112,sin periodicidad,False,,,,1.57,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/met/images/met_308113.jpg,,Horizonte Temprano,met,308113,sin periodicidad,False,,,,0.36,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+wari,data/raw/met/images/met_308115.jpg,,Horizonte Medio,met,308115,sin periodicidad,False,,,,2.03,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_308116.jpg,p2mm,Horizonte Medio,met,308116,ok,False,0.0,0.0,1,0.98,0.8434,0.7955,Textiles-Woven,27.0,,0.0,,0.0,0.8434,0.7955,no determinada,0.3182,0.804,0.3371,0.3511,2,0.4956,0.64,pmm
+no determinada,data/raw/met/images/met_308117.jpg,p2mm,no determinado,met,308117,ok,True,0.0,0.0,1,3.75,0.8125,0.8322,Textiles-Woven,22.0,,0.1818,,0.0,0.8125,0.8322,costa central,0.1304,0.8064,0.1381,0.1321,2,0.5877,0.8395,pmm
+no determinada,data/raw/met/images/met_308118.jpg,p2mm,no determinado,met,308118,ok,True,0.0,0.0,1,0.96,0.7194,0.63,Textiles-Woven,,27.0,,0.0,0.0,0.7194,0.63,costa central,0.0596,0.6465,0.0915,0.0692,2,0.4752,0.6788,pmm
+chimu,data/raw/met/images/met_308119.jpg,p1m1,Intermedio Tardio,met,308119,ok,False,0.0,0.0,1,5.31,0.3503,0.4742,Textiles-Woven,16.0,,0.3125,,0.0,0.3503,0.4742,no determinada,0.2371,0.3691,0.2117,0.3205,1,0.3728,0.5326,pm
+inca,data/raw/met/images/met_308120.jpg,,Horizonte Tardio,met,308120,periodicidad debil,False,,,,13.81,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3619,
+wari,data/raw/met/images/met_308121.jpg,,Horizonte Medio,met,308121,sin periodicidad,False,,,,15.19,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_308124.jpg,,no determinado,met,308124,periodicidad debil,True,,,,5.4,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3095,
+no determinada,data/raw/met/images/met_308125.jpg,,no determinado,met,308125,periodicidad debil,True,,,,5.4,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3095,
+no determinada,data/raw/met/images/met_308126.jpg,,no determinado,met,308126,periodicidad debil,True,,,,5.4,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3095,
+no determinada,data/raw/met/images/met_308127.jpg,,no determinado,met,308127,periodicidad debil,True,,,,5.4,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3095,
+no determinada,data/raw/met/images/met_308128.jpg,,no determinado,met,308128,periodicidad debil,True,,,,5.4,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3095,
+no determinada,data/raw/met/images/met_308129.jpg,,no determinado,met,308129,periodicidad debil,True,,,,5.4,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3095,
+no determinada,data/raw/met/images/met_308130.jpg,,no determinado,met,308130,periodicidad debil,True,,,,5.4,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3095,
+no determinada,data/raw/met/images/met_308131.jpg,,no determinado,met,308131,periodicidad debil,True,,,,5.4,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3095,
+no determinada,data/raw/met/images/met_308132.jpg,,no determinado,met,308132,periodicidad debil,True,,,,5.4,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3095,
+no determinada,data/raw/met/images/met_308133.jpg,,no determinado,met,308133,periodicidad debil,True,,,,5.4,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3095,
+no determinada,data/raw/met/images/met_308134.jpg,,no determinado,met,308134,periodicidad debil,True,,,,5.4,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3095,
+no determinada,data/raw/met/images/met_308217.jpg,,no determinado,met,308217,sin periodicidad,False,,,,3.11,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+paracas,data/raw/met/images/met_308278.jpg,p2mm,Horizonte Temprano,met,308278,ok,False,0.0,0.0,1,3.55,0.8153,0.8004,Textiles-Woven,,62.0,,0.0484,0.0,0.8153,0.8004,costa sur,0.1194,0.8498,0.1257,0.1034,2,0.5148,0.7355,pmm
+chimu,data/raw/met/images/met_308279.jpg,p2mm,Intermedio Tardio,met,308279,ok,False,0.0,0.0,1,2.35,0.666,0.8457,Textiles-Woven,,16.0,,0.0,0.0,0.666,0.8457,no determinada,0.2184,0.6632,0.1863,0.2502,2,0.4759,0.6799,pmm
+chimu,data/raw/met/images/met_308280.jpg,,Intermedio Tardio,met,308280,sin periodicidad,False,,,,0.79,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_308281.jpg,p2mm,Intermedio Tardio,met,308281,ok,False,0.0,0.0,2,1.83,0.3986,0.4259,Textiles-Woven,8.0,11.0,0.125,0.0,0.0,0.3986,0.4259,no determinada,0.2032,0.378,0.1763,0.1532,2,0.3211,0.4588,pmm
+nasca,data/raw/met/images/met_308282.jpg,p2mm,Intermedio Temprano,met,308282,ok,False,0.0,0.0,1,1.23,0.5422,0.5381,Textiles-Non-Woven,15.0,,0.2,,0.0,0.5422,0.5381,no determinada,0.1498,0.5387,0.1733,0.1605,2,0.3889,0.5555,pmm
+chancay,data/raw/met/images/met_308283.jpg,,Intermedio Tardio,met,308283,periodicidad debil,False,,,,13.48,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.284,
+nasca,data/raw/met/images/met_308284.jpg,,Intermedio Temprano,met,308284,periodicidad debil,False,,,,7.9,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2199,
+nasca,data/raw/met/images/met_308285.jpg,,Intermedio Temprano,met,308285,periodicidad debil,False,,,,12.65,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2749,
+chimu,data/raw/met/images/met_308287.jpg,,Intermedio Tardio,met,308287,periodicidad debil,False,,,,13.55,,,Feathers-Costumes,,,,,0.0,,,no determinada,,,,,,,0.3572,
+chancay,data/raw/met/images/met_308290.jpg,p1,Intermedio Tardio,met,308290,ok,False,0.3331,0.0,2,6.02,0.0,0.2623,Textiles-Woven,6.0,15.0,0.5,0.0,26.57,0.3331,0.2623,no determinada,0.3454,0.4114,0.269,0.2626,1,0.498,0.58,p1
+no determinada,data/raw/met/images/met_308378.jpg,p2mm,no determinado,met,308378,ok,True,0.0,0.0,1,4.87,0.739,0.8017,Textiles-Woven,,43.0,,0.0,0.0,0.739,0.8017,costa central,0.1201,0.73,0.1158,0.0595,2,0.4654,0.6649,pmm
+no determinada,data/raw/met/images/met_308771.jpg,p1m1,no determinado,met,308771,ok,True,0.0,0.0,1,2.58,0.37,0.6695,Textiles-Woven,50.0,,0.0,,0.0,0.37,0.6695,costa central,0.1275,0.3279,0.1405,0.1569,1,0.4297,0.6138,pm
+inca,data/raw/met/images/met_309528.jpg,p2mm,Horizonte Tardio,met,309528,ok,False,0.0,0.0,1,5.56,0.783,0.4674,Textiles-Woven,117.0,,0.0427,,0.0,0.783,0.4674,no determinada,0.1181,0.4775,0.1034,0.1363,2,0.3363,0.4805,pmm
+chimu,data/raw/met/images/met_309548.JPG,,Intermedio Tardio,met,309548,sin periodicidad,False,,,,3.52,,,Feathers-Costumes,,,,,-0.68,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_309761.jpg,,Horizonte Medio,met,309761,sin periodicidad,False,,,,2.85,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_310058.jpg,,Intermedio Tardio,met,310058,periodicidad debil,False,,,,5.4,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3095,
+chancay,data/raw/met/images/met_310059.jpg,,Intermedio Tardio,met,310059,periodicidad debil,False,,,,2.49,,,Textiles-Woven,,,,,-32.01,,,no determinada,,,,,,,0.0968,
+no determinada,data/raw/met/images/met_310191.jpg,p2mm,no determinado,met,310191,ok,True,0.0,0.0,1,3.38,0.6172,0.85,Textiles-Woven,29.0,,0.0,,0.0,0.6172,0.85,costa central,0.4298,0.6136,0.4387,0.4047,2,0.5681,0.704,pmm
+nasca,data/raw/met/images/met_310450.jpg,,Intermedio Temprano,met,310450,sin periodicidad,False,,,,3.18,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_310451.jpg,p1,Intermedio Temprano,met,310451,ok,False,0.0,0.0,1,3.22,0.4233,0.5043,Textiles-Woven,,29.0,,0.1379,0.0,0.4233,0.5043,no determinada,0.4046,0.426,0.3958,0.3809,1,0.5194,0.4874,p1
+chimu,data/raw/met/images/met_310463.jpg,,Intermedio Tardio,met,310463,sin periodicidad,False,,,,11.38,,,Feathers-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+inca,data/raw/met/images/met_310476.jpg,,Horizonte Tardio,met,310476,sin periodicidad,False,,,,3.0,,,Feathers-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+paracas,data/raw/met/images/met_310511.jpg,,Horizonte Temprano,met,310511,sin periodicidad,False,,,,0.39,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+nasca,data/raw/met/images/met_310530.jpg,,Intermedio Temprano,met,310530,periodicidad debil,False,,,,1.11,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.4205,
+chancay,data/raw/met/images/met_310695.jpg,,Intermedio Tardio,met,310695,periodicidad debil,False,,,,6.65,,,Textiles-Non-Woven,,,,,0.0,,,no determinada,,,,,,,0.2345,
+chancay,data/raw/met/images/met_310696.jpg,,Intermedio Tardio,met,310696,periodicidad debil,False,,,,5.59,,,Textiles-Non-Woven,,,,,0.0,,,no determinada,,,,,,,0.1683,
+chancay,data/raw/met/images/met_310697.jpg,,Intermedio Tardio,met,310697,periodicidad debil,False,,,,6.07,,,Textiles-Non-Woven,,,,,0.0,,,no determinada,,,,,,,0.0693,
+chancay,data/raw/met/images/met_310698.jpg,,Intermedio Tardio,met,310698,periodicidad debil,False,,,,15.01,,,Textiles-Non-Woven,,,,,0.0,,,no determinada,,,,,,,0.0728,
+chancay,data/raw/met/images/met_310699.jpg,,Intermedio Tardio,met,310699,periodicidad debil,False,,,,5.27,,,Textiles-Non-Woven,,,,,0.0,,,no determinada,,,,,,,0.2062,
+chancay,data/raw/met/images/met_310700.jpg,,Intermedio Tardio,met,310700,periodicidad debil,False,,,,4.95,,,Textiles-Non-Woven,,,,,0.0,,,no determinada,,,,,,,0.1881,
+wari,data/raw/met/images/met_310701.jpg,,Horizonte Medio,met,310701,periodicidad debil,False,,,,6.28,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.1858,
+chancay,data/raw/met/images/met_310719.jpg,p2mm,Intermedio Tardio,met,310719,ok,False,0.0,0.0,1,5.13,0.5454,0.5156,Textiles-Non-Woven,18.0,,0.0,,0.0,0.5454,0.5156,no determinada,0.2593,0.5207,0.292,0.4556,4,0.3631,0.5187,p4m
+nasca,data/raw/met/images/met_312167.jpg,,Intermedio Temprano,met,312167,sin periodicidad,False,,,,3.39,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_312244.jpg,p2mg,Horizonte Medio,met,312244,ok,False,0.6076,0.0,1,7.13,0.0,0.6174,Textiles-Featherwork,218.0,,0.5,,17.6,0.6076,0.6174,no determinada,0.2254,0.8931,0.1915,0.1146,2,0.5995,0.8565,pmg
+wari,data/raw/met/images/met_312245.jpg,p2,Horizonte Medio,met,312245,ok,False,0.5481,0.0,1,7.13,0.0,0.5875,Textiles-Featherwork,233.0,,0.4506,,17.98,0.5481,0.5875,no determinada,0.2339,0.8774,0.2229,0.2447,2,0.5523,0.7891,pmm
+ica,data/raw/met/images/met_312246.jpg,p1,Intermedio Tardio,met,312246,ok,False,0.0,0.0,1,15.94,0.5865,0.5314,Textiles-Featherwork,,57.0,,0.1404,0.0,0.5865,0.5314,costa sur,0.5035,0.424,0.4789,0.5161,1,0.6738,0.4544,p1
+ica,data/raw/met/images/met_312247.jpg,,Intermedio Tardio,met,312247,sin periodicidad,False,,,,0.4,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312497.jpg,,Intermedio Tardio,met,312497,sin periodicidad,False,,,,12.0,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312498.jpg,,Intermedio Tardio,met,312498,periodicidad debil,False,,,,12.0,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.3377,
+ica,data/raw/met/images/met_312499.jpg,,Intermedio Tardio,met,312499,sin periodicidad,False,,,,0.48,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312500.jpg,,Intermedio Tardio,met,312500,sin periodicidad,False,,,,3.35,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+moche,data/raw/met/images/met_312613.jpg,,Intermedio Temprano,met,312613,sin periodicidad,False,,,,3.66,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_312614.jpg,,Horizonte Medio,met,312614,periodicidad debil,False,,,,1.9,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.289,
+wari,data/raw/met/images/met_312615.jpg,,Horizonte Medio,met,312615,periodicidad debil,False,,,,2.43,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.1802,
+chimu,data/raw/met/images/met_312616.jpg,,Intermedio Tardio,met,312616,periodicidad debil,False,,,,9.4,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3427,
+nasca,data/raw/met/images/met_312668.jpg,,Intermedio Temprano,met,312668,sin periodicidad,False,,,,3.64,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chancay,data/raw/met/images/met_312669.jpg,p2mg,Intermedio Tardio,met,312669,ok,False,0.8595,0.0,1,12.78,0.0,0.8437,Textiles-Woven,177.0,,0.4068,,0.0,0.8595,0.8437,no determinada,0.2666,0.8371,0.1874,0.2747,2,0.5222,0.5699,pmg
+chimu,data/raw/met/images/met_312670.jpg,,Intermedio Tardio,met,312670,periodicidad debil,False,,,,6.42,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2969,
+wari,data/raw/met/images/met_312672.jpg,,Horizonte Medio,met,312672,sin periodicidad,False,,,,3.71,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_312674.jpg,,Horizonte Medio,met,312674,sin periodicidad,False,,,,7.13,,,Textiles-Featherwork,,,,,19.6,,,costa sur,,,,,,,,
+wari,data/raw/met/images/met_312675.jpg,p2mm,Horizonte Medio,met,312675,ok,False,0.0,0.0,1,7.13,0.4451,0.4608,Textiles-Featherwork,211.0,,0.1185,,18.0,0.4451,0.4608,no determinada,0.2341,0.92,0.1854,0.1341,2,0.437,0.4825,pmm
+wari,data/raw/met/images/met_312676.jpg,p2mg,Horizonte Medio,met,312676,ok,False,0.6063,0.0,1,7.13,0.0,0.6159,Textiles-Featherwork,218.0,,0.4908,,17.46,0.6063,0.6159,costa sur,0.2192,0.8906,0.2099,0.1405,2,0.5874,0.8392,pmg
+wari,data/raw/met/images/met_312677.jpg,p2mg,Horizonte Medio,met,312677,ok,False,0.6003,0.0,1,7.13,0.0,0.6172,Textiles-Featherwork,217.0,,0.4977,,17.6,0.6003,0.6172,costa sur,0.2029,0.8854,0.203,0.1022,2,0.583,0.8328,pmg
+wari,data/raw/met/images/met_312678.jpg,,Horizonte Medio,met,312678,sin periodicidad,False,,,,7.13,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+wari,data/raw/met/images/met_312679.jpg,,Horizonte Medio,met,312679,sin periodicidad,False,,,,7.13,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+wari,data/raw/met/images/met_312680.jpg,p2mg,Horizonte Medio,met,312680,ok,False,0.596,0.0,1,7.13,0.0,0.6076,Textiles-Featherwork,220.0,,0.4909,,17.7,0.596,0.6076,costa sur,0.2063,0.9033,0.2123,0.1318,2,0.5818,0.8312,pmg
+wari,data/raw/met/images/met_312681.jpg,p2mg,Horizonte Medio,met,312681,ok,False,0.5858,0.0,1,7.13,0.0,0.6104,Textiles-Featherwork,220.0,,0.4773,,17.62,0.5858,0.6104,costa sur,0.1933,0.8525,0.1887,0.1474,2,0.5824,0.8319,pmg
+wari,data/raw/met/images/met_312682.jpg,,Horizonte Medio,met,312682,sin periodicidad,False,,,,7.13,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+wari,data/raw/met/images/met_312683.jpg,p2mg,Horizonte Medio,met,312683,ok,False,0.587,0.0,1,7.13,0.0,0.5952,Textiles-Featherwork,222.0,,0.4865,,17.54,0.587,0.5952,costa sur,0.2133,0.8942,0.2091,0.1341,2,0.5686,0.8122,pmg
+wari,data/raw/met/images/met_312684.jpg,,Horizonte Medio,met,312684,sin periodicidad,False,,,,7.13,,,Textiles-Featherwork,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_312685.jpg,,Horizonte Medio,met,312685,periodicidad debil,False,,,,7.13,,,Textiles-Featherwork,,,,,-0.7,,,no determinada,,,,,,,0.4198,
+wari,data/raw/met/images/met_312737.jpg,p2mg,Horizonte Medio,met,312737,ok,False,0.7912,0.0,1,6.67,0.0,0.869,Textiles-Featherwork,159.0,,0.4969,,-0.36,0.7912,0.869,no determinada,0.0873,0.8191,0.1079,0.0922,2,0.5919,0.8455,pmg
+chimu,data/raw/met/images/met_312784.jpg,p1m1,Intermedio Tardio,met,312784,ok,False,0.0,0.0,1,2.23,0.37,0.5882,Textiles-Woven,32.0,,0.25,,0.0,0.37,0.5882,no determinada,0.3092,0.3575,0.3157,0.3529,1,0.4293,0.4783,pm
+chimu,data/raw/met/images/met_312785.jpg,,Intermedio Tardio,met,312785,sin periodicidad,False,,,,10.46,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_312786.jpg,,Intermedio Tardio,met,312786,sin periodicidad,False,,,,10.66,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_312787.jpg,,Intermedio Tardio,met,312787,periodicidad debil,False,,,,8.93,,,Textiles-Woven,,,,,1.55,,,no determinada,,,,,,,0.3122,
+chimu,data/raw/met/images/met_312788.jpg,,Intermedio Tardio,met,312788,periodicidad debil,False,,,,2.33,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.337,
+chimu,data/raw/met/images/met_312789.jpg,,Intermedio Tardio,met,312789,periodicidad debil,False,,,,9.38,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2654,
+chimu,data/raw/met/images/met_312790.jpg,p1m1,Intermedio Tardio,met,312790,ok,False,0.0,0.0,1,9.27,0.2712,0.4704,Textiles-Woven,25.0,,0.2,,-2.29,0.2712,0.4704,no determinada,0.104,0.2874,0.1512,0.1159,1,0.3259,0.4656,pm
+chimu,data/raw/met/images/met_312791.jpg,p2,Intermedio Tardio,met,312791,ok,False,0.0,0.6741,1,7.05,0.5389,0.0,Textiles-Woven,,14.0,,0.3571,0.0,0.5389,0.6741,no determinada,0.212,0.5246,0.2443,0.2606,2,0.4973,0.7105,pmg
+chimu,data/raw/met/images/met_312792.jpg,p2mm,Intermedio Tardio,met,312792,ok,False,0.0,0.0,1,14.03,0.689,0.8369,Textiles-Woven,63.0,,0.2063,,0.0,0.689,0.8369,no determinada,0.3317,0.6772,0.355,0.5107,2,0.561,0.4745,pmm
+chimu,data/raw/met/images/met_312793.jpg,p2mm,Intermedio Tardio,met,312793,ok,False,0.0,0.0,1,0.34,0.5287,0.6656,Textiles-Woven,,74.0,,0.027,0.0,0.5287,0.6656,no determinada,0.2033,0.5336,0.1411,0.2801,2,0.3727,0.5324,pmm
+chimu,data/raw/met/images/met_312794.jpg,,Intermedio Tardio,met,312794,sin periodicidad,False,,,,3.53,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_312795.jpg,,Intermedio Tardio,met,312795,sin periodicidad,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_312796.jpg,,Intermedio Tardio,met,312796,periodicidad debil,False,,,,2.76,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3109,
+chimu,data/raw/met/images/met_312797.jpg,p11m,Intermedio Tardio,met,312797,ok,False,0.0,0.0,1,0.39,0.8028,0.5405,Textiles-Woven,15.0,,0.0,,0.0,0.8028,0.5405,no determinada,0.4896,0.5204,0.3492,0.3767,1,0.5982,0.7599,pm
+ica,data/raw/met/images/met_312819.jpg,,Intermedio Tardio,met,312819,periodicidad debil,False,,,,15.9,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.3106,
+ica,data/raw/met/images/met_312820.jpg,,Intermedio Tardio,met,312820,sin periodicidad,False,,,,12.0,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312821.jpg,,Intermedio Tardio,met,312821,sin periodicidad,False,,,,0.52,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312823.jpg,p1m1,Intermedio Tardio,met,312823,ok,False,0.5206,0.0,1,2.68,0.0,0.4871,Textiles-Featherwork,240.0,,0.4708,,0.0,0.5206,0.4871,costa sur,0.3273,0.3757,0.2463,0.1621,1,0.3889,0.5555,cm
+ica,data/raw/met/images/met_312824.jpg,,Intermedio Tardio,met,312824,periodicidad debil,False,,,,3.54,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.4353,
+ica,data/raw/met/images/met_312825.jpg,p1m1,Intermedio Tardio,met,312825,ok,False,0.5015,0.0,1,3.49,0.0,0.449,Textiles-Featherwork,248.0,,0.4476,,0.0,0.5015,0.449,costa sur,0.262,0.3501,0.2222,0.2015,1,0.3985,0.5693,cm
+ica,data/raw/met/images/met_312826.jpg,,Intermedio Tardio,met,312826,periodicidad debil,False,,,,15.9,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.27,
+ica,data/raw/met/images/met_312827.jpg,p1,Intermedio Tardio,met,312827,ok,False,0.0,0.0,1,12.09,0.7104,0.7755,Textiles-Featherwork,,52.0,,0.0,0.0,0.7104,0.7755,costa sur,0.5937,0.6675,0.6299,0.6549,1,0.8585,0.5471,p1
+ica,data/raw/met/images/met_312828.jpg,,Intermedio Tardio,met,312828,periodicidad debil,False,,,,3.23,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.3714,
+ica,data/raw/met/images/met_312829.jpg,p2mg,Intermedio Tardio,met,312829,ok,False,0.4933,0.0,1,3.16,0.0,0.5124,Textiles-Featherwork,215.0,,0.4326,,0.0,0.4933,0.5124,costa sur,0.2017,0.4521,0.1931,0.1998,2,0.4238,0.5431,pmg
+ica,data/raw/met/images/met_312830.jpg,,Intermedio Tardio,met,312830,sin periodicidad,False,,,,3.29,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312831.jpg,p2mm,Intermedio Tardio,met,312831,ok,False,0.0,0.0,1,3.48,0.6172,0.6189,Textiles-Featherwork,153.0,,0.0,,0.0,0.6172,0.6189,costa sur,0.3309,0.5426,0.3462,0.2793,2,0.4954,0.5098,pmm
+ica,data/raw/met/images/met_312832.jpg,,Intermedio Tardio,met,312832,periodicidad debil,False,,,,3.59,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.4309,
+ica,data/raw/met/images/met_312833.jpg,p2mm,Intermedio Tardio,met,312833,ok,False,0.0,0.0,1,3.63,0.4441,0.6703,Textiles-Featherwork,206.0,,0.0,,0.0,0.4441,0.6703,costa sur,0.241,0.4236,0.2454,0.3917,4,0.3894,0.4901,p4m
+ica,data/raw/met/images/met_312834.jpg,p2mg,Intermedio Tardio,met,312834,ok,False,0.5753,0.0,1,3.15,0.0,0.542,Textiles-Featherwork,239.0,,0.4812,,0.0,0.5753,0.542,costa sur,0.2383,0.4893,0.2745,0.2328,2,0.4129,0.5899,pmg
+ica,data/raw/met/images/met_312835.jpg,,Intermedio Tardio,met,312835,periodicidad debil,False,,,,12.0,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.4081,
+ica,data/raw/met/images/met_312836.jpg,p2mg,Intermedio Tardio,met,312836,ok,False,0.5239,0.0,1,0.46,0.0,0.6248,Textiles-Featherwork,235.0,,0.4298,,0.0,0.5239,0.6248,costa sur,0.2271,0.4908,0.2411,0.2195,2,0.4705,0.6721,pmg
+ica,data/raw/met/images/met_312837.jpg,,Intermedio Tardio,met,312837,periodicidad debil,False,,,,0.49,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.3795,
+ica,data/raw/met/images/met_312838.jpg,,Intermedio Tardio,met,312838,sin periodicidad,False,,,,0.46,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312839.jpg,p1m1,Intermedio Tardio,met,312839,ok,False,0.0,0.0,1,2.85,0.4511,0.521,Textiles-Featherwork,224.0,,0.0312,,0.0,0.4511,0.521,costa sur,0.3383,0.3569,0.323,0.3623,1,0.4739,0.5684,pm
+ica,data/raw/met/images/met_312840.jpg,p2mg,Intermedio Tardio,met,312840,ok,False,0.5679,0.0,1,3.1,0.0,0.5346,Textiles-Featherwork,206.0,,0.4757,,0.0,0.5679,0.5346,costa sur,0.2909,0.5079,0.261,0.3435,2,0.4205,0.4723,pmg
+ica,data/raw/met/images/met_312841.jpg,,Intermedio Tardio,met,312841,periodicidad debil,False,,,,0.48,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.4065,
+ica,data/raw/met/images/met_312842.jpg,,Intermedio Tardio,met,312842,sin periodicidad,False,,,,0.44,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312843.jpg,p2mg,Intermedio Tardio,met,312843,ok,False,0.6521,0.0,1,0.45,0.0,0.5626,Textiles-Featherwork,235.0,,0.4851,,0.0,0.6521,0.5626,costa sur,0.2915,0.5225,0.283,0.2631,2,0.4051,0.5553,pmg
+ica,data/raw/met/images/met_312844.jpg,,Intermedio Tardio,met,312844,periodicidad debil,False,,,,2.72,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.3767,
+ica,data/raw/met/images/met_312845.jpg,p2mm,Intermedio Tardio,met,312845,ok,False,0.0,0.0,1,3.08,0.5716,0.6273,Textiles-Featherwork,218.0,,0.2706,,0.0,0.5716,0.6273,costa sur,0.3587,0.4998,0.3346,0.3596,2,0.4344,0.6144,pmm
+ica,data/raw/met/images/met_312846.jpg,,Intermedio Tardio,met,312846,periodicidad debil,False,,,,3.32,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.3536,
+ica,data/raw/met/images/met_312847.jpg,p2mg,Intermedio Tardio,met,312847,ok,False,0.6014,0.0,1,3.44,0.0,0.558,Textiles-Featherwork,223.0,,0.4888,,0.0,0.6014,0.558,costa sur,0.2954,0.5025,0.2588,0.2401,2,0.4591,0.6559,pmg
+ica,data/raw/met/images/met_312848.jpg,,Intermedio Tardio,met,312848,periodicidad debil,False,,,,3.44,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.3479,
+ica,data/raw/met/images/met_312849.jpg,,Intermedio Tardio,met,312849,periodicidad debil,False,,,,11.37,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.2566,
+ica,data/raw/met/images/met_312850.jpg,p2mg,Intermedio Tardio,met,312850,ok,False,0.4797,0.0,1,3.73,0.0,0.6057,Textiles-Featherwork,190.0,,0.4316,,0.0,0.4797,0.6057,costa sur,0.2434,0.4959,0.1761,0.1816,2,0.3677,0.5252,pmg
+ica,data/raw/met/images/met_312851.jpg,p2mm,Intermedio Tardio,met,312851,ok,False,0.0,0.0,1,3.15,0.3938,0.5985,Textiles-Featherwork,175.0,,0.3086,,-0.98,0.3938,0.5985,costa sur,0.1862,0.4208,0.2002,0.17,2,0.3499,0.4586,pmm
+ica,data/raw/met/images/met_312852.jpg,p1m1,Intermedio Tardio,met,312852,ok,False,0.0,0.0,1,12.0,0.4452,0.7463,Textiles-Featherwork,79.0,,0.3038,,0.0,0.4452,0.7463,costa sur,0.3327,0.387,0.4202,0.3544,1,0.6399,0.4987,pm
+ica,data/raw/met/images/met_312853.jpg,,Intermedio Tardio,met,312853,periodicidad debil,False,,,,3.35,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.4352,
+ica,data/raw/met/images/met_312854.jpg,,Intermedio Tardio,met,312854,periodicidad debil,False,,,,3.18,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.3808,
+ica,data/raw/met/images/met_312855.jpg,,Intermedio Tardio,met,312855,sin periodicidad,False,,,,0.56,,,Textiles-Featherwork,,,,,-2.21,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312856.jpg,,Intermedio Tardio,met,312856,sin periodicidad,False,,,,12.0,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312857.jpg,,Intermedio Tardio,met,312857,periodicidad debil,False,,,,12.0,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.4339,
+ica,data/raw/met/images/met_312858.jpg,,Intermedio Tardio,met,312858,sin periodicidad,False,,,,0.43,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312859.jpg,,Intermedio Tardio,met,312859,sin periodicidad,False,,,,2.86,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312860.jpg,,Intermedio Tardio,met,312860,sin periodicidad,False,,,,12.0,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312861.jpg,,Intermedio Tardio,met,312861,periodicidad debil,False,,,,3.35,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.3343,
+ica,data/raw/met/images/met_312862.jpg,,Intermedio Tardio,met,312862,periodicidad debil,False,,,,3.73,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.3761,
+ica,data/raw/met/images/met_312863.jpg,,Intermedio Tardio,met,312863,sin periodicidad,False,,,,3.6,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312864.jpg,,Intermedio Tardio,met,312864,sin periodicidad,False,,,,3.1,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312865.jpg,,Intermedio Tardio,met,312865,periodicidad debil,False,,,,3.61,,,Textiles-Featherwork,,,,,-21.8,,,costa sur,,,,,,,0.193,
+ica,data/raw/met/images/met_312866.jpg,,Intermedio Tardio,met,312866,sin periodicidad,False,,,,12.0,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312868.jpg,p11m,Intermedio Tardio,met,312868,ok,False,0.0,0.0,1,2.74,0.4956,0.6942,Textiles-Featherwork,156.0,,0.0,,0.0,0.4956,0.6942,costa sur,0.298,0.4612,0.3102,0.3371,1,0.4832,0.5328,pm
+ica,data/raw/met/images/met_312869.jpg,,Intermedio Tardio,met,312869,periodicidad debil,False,,,,3.37,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.35,
+ica,data/raw/met/images/met_312870.jpg,,Intermedio Tardio,met,312870,sin periodicidad,False,,,,12.0,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312871.jpg,,Intermedio Tardio,met,312871,periodicidad debil,False,,,,3.37,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.3068,
+ica,data/raw/met/images/met_312872.jpg,,Intermedio Tardio,met,312872,periodicidad debil,False,,,,3.96,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.1802,
+ica,data/raw/met/images/met_312873.jpg,p2mg,Intermedio Tardio,met,312873,ok,False,0.5016,0.0,1,3.96,0.0,0.5985,Textiles-Featherwork,138.0,,0.3841,,0.0,0.5016,0.5985,costa sur,0.2373,0.4585,0.2187,0.1692,2,0.4334,0.501,pmg
+ica,data/raw/met/images/met_312874.jpg,,Intermedio Tardio,met,312874,sin periodicidad,False,,,,3.74,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312875.jpg,,Intermedio Tardio,met,312875,sin periodicidad,False,,,,12.0,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312876.jpg,,Intermedio Tardio,met,312876,sin periodicidad,False,,,,13.56,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+ica,data/raw/met/images/met_312877.jpg,,Intermedio Tardio,met,312877,periodicidad debil,False,,,,2.52,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,0.3412,
+ica,data/raw/met/images/met_312880.jpg,,Intermedio Tardio,met,312880,sin periodicidad,False,,,,3.1,,,Textiles-Featherwork,,,,,0.0,,,costa sur,,,,,,,,
+wari,data/raw/met/images/met_312911.jpg,,Horizonte Medio,met,312911,periodicidad debil,False,,,,14.14,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,0.1902,
+wari,data/raw/met/images/met_312912.jpg,p2mg,Horizonte Medio,met,312912,ok,False,0.5946,0.0,1,7.13,0.0,0.5982,Textiles-Featherwork,218.0,,0.4954,,17.86,0.5946,0.5982,no determinada,0.2283,0.8899,0.1991,0.1637,2,0.5789,0.8271,pmg
+wari,data/raw/met/images/met_312913.jpg,p2mg,Horizonte Medio,met,312913,ok,False,0.5775,0.0,1,7.13,0.0,0.5938,Textiles-Featherwork,217.0,,0.4747,,17.46,0.5775,0.5938,no determinada,0.2237,0.8715,0.2055,0.1606,2,0.5671,0.8101,pmg
+wari,data/raw/met/images/met_312914.jpg,p2mg,Horizonte Medio,met,312914,ok,False,0.5664,0.0,1,7.13,0.0,0.5835,Textiles-Featherwork,217.0,,0.47,,19.43,0.5664,0.5835,no determinada,0.25,0.8518,0.1782,0.1883,2,0.5547,0.7925,pmg
+nasca,data/raw/met/images/met_312932.jpg,p1m1,Intermedio Temprano,met,312932,ok,False,0.0,0.0,1,4.54,0.667,0.8307,Textiles-Woven,97.0,,0.1134,,0.0,0.667,0.8307,no determinada,0.5979,0.6534,0.6001,0.6241,1,0.7926,0.4984,pm
+nasca,data/raw/met/images/met_312933.jpg,,Intermedio Temprano,met,312933,sin periodicidad,False,,,,10.1,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_312934.jpg,p1m1,Horizonte Medio,met,312934,ok,False,0.0,0.0,2,1.72,0.5766,0.6717,Textiles-Woven,41.0,58.0,0.2195,0.0,1.43,0.5766,0.6717,no determinada,0.271,0.5612,0.4655,0.3998,1,0.5953,0.4665,pm
+chimu,data/raw/met/images/met_313006.jpg,,Intermedio Tardio,met,313006,periodicidad debil,False,,,,12.25,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3474,
+nasca,data/raw/met/images/met_313093.jpg,,Intermedio Temprano,met,313093,periodicidad debil,False,,,,2.66,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.1967,
+wari,data/raw/met/images/met_313105.jpg,p2mg,Horizonte Medio,met,313105,ok,False,0.5475,0.0,1,7.13,0.0,0.5678,Textiles-Featherwork,219.0,3.0,0.4703,0.0,19.62,0.5475,0.5678,no determinada,0.2154,0.7539,0.1979,0.2749,2,0.4612,0.6589,pmg
+wari,data/raw/met/images/met_313106.jpg,p2mg,Horizonte Medio,met,313106,ok,False,0.593,0.0,1,7.13,0.0,0.6111,Textiles-Featherwork,228.0,,0.4518,,17.89,0.593,0.6111,no determinada,0.2361,0.9069,0.1762,0.1408,2,0.5721,0.8173,pmg
+wari,data/raw/met/images/met_313107.jpg,p2mg,Horizonte Medio,met,313107,ok,False,0.5578,0.0,1,7.13,0.0,0.589,Textiles-Featherwork,233.0,,0.4936,,18.36,0.5578,0.589,no determinada,0.2629,0.9002,0.2017,0.2245,2,0.544,0.7772,pmg
+wari,data/raw/met/images/met_313108.jpg,p2mg,Horizonte Medio,met,313108,ok,False,0.5798,0.0,1,7.13,0.0,0.5959,Textiles-Featherwork,217.0,,0.4747,,18.43,0.5798,0.5959,no determinada,0.1874,0.876,0.1503,0.1388,2,0.5774,0.8248,pmg
+chancay,data/raw/met/images/met_313121.jpg,p11m,Intermedio Tardio,met,313121,ok,False,0.0,0.0,1,2.51,0.583,0.5649,Textiles-Woven,,22.0,,0.0,0.0,0.583,0.5649,no determinada,0.1134,0.4488,0.1116,0.1146,1,0.4981,0.7115,pm
+chimu,data/raw/met/images/met_313122.jpg,,Intermedio Tardio,met,313122,periodicidad debil,False,,,,5.48,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2851,
+wari,data/raw/met/images/met_313129.jpg,p2mm,Horizonte Medio,met,313129,ok,True,0.0,0.0,1,2.91,0.4721,0.4296,Textiles-Woven,21.0,,0.0,,0.0,0.4721,0.4296,no determinada,0.1277,0.4245,0.139,0.151,2,0.3424,0.4891,pmm
+chancay,data/raw/met/images/met_313134.jpg,,Intermedio Tardio,met,313134,periodicidad debil,False,,,,5.43,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,0.1678,
+chancay,data/raw/met/images/met_313135.jpg,p2mm,Intermedio Tardio,met,313135,ok,False,0.0,0.0,1,5.01,0.5062,0.5555,Textiles-Costumes,15.0,,0.0,,0.0,0.5062,0.5555,no determinada,0.0896,0.4887,0.082,0.1065,2,0.3974,0.5677,pmm
+chancay,data/raw/met/images/met_313143.jpg,,Intermedio Tardio,met,313143,sin periodicidad,False,,,,1.69,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+inca,data/raw/met/images/met_313152.jpg,p2mm,Horizonte Tardio,met,313152,ok,False,0.0,0.0,1,12.0,0.7607,0.9172,Textiles-Woven,51.0,,0.1765,,0.0,0.7607,0.9172,no determinada,0.232,0.7564,0.2152,0.1728,2,0.6509,0.7373,pmm
+chimu,data/raw/met/images/met_313153.jpg,,Intermedio Tardio,met,313153,sin periodicidad,False,,,,6.91,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chancay,data/raw/met/images/met_313202.jpg,,Intermedio Tardio,met,313202,periodicidad debil,True,,,,6.69,,,Textiles-Costumes,,,,,3.18,,,no determinada,,,,,,,0.2591,
+nasca,data/raw/met/images/met_313234.jpg,p2mm,Intermedio Temprano,met,313234,ok,True,0.0,0.0,1,4.86,0.7151,0.7257,Textiles-Woven,56.0,,0.0,,0.0,0.7151,0.7257,no determinada,0.1262,0.6943,0.1283,0.1651,2,0.3829,0.5029,pmm
+chimu,data/raw/met/images/met_313237.jpg,,Intermedio Tardio,met,313237,periodicidad debil,False,,,,7.6,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2053,
+inca,data/raw/met/images/met_313324.jpg,p2mm,Horizonte Tardio,met,313324,ok,False,0.0,0.0,1,0.47,0.8186,0.8866,Textiles-Woven,181.0,,0.0,,0.0,0.8186,0.8866,no determinada,0.3846,0.83,0.4395,0.3649,2,0.7314,0.7051,pmm
+nasca,data/raw/met/images/met_313339.jpg,,Intermedio Temprano,met,313339,sin periodicidad,False,,,,0.39,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_314033.jpg,,no determinado,met,314033,sin periodicidad,True,,,,1.73,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+nasca,data/raw/met/images/met_314218.jpg,,Intermedio Temprano,met,314218,periodicidad debil,False,,,,5.27,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3402,
+nasca,data/raw/met/images/met_314219.jpg,,Intermedio Temprano,met,314219,sin periodicidad,False,,,,5.57,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_314353.jpg,,Horizonte Medio,met,314353,periodicidad debil,False,,,,13.16,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.4457,
+wari,data/raw/met/images/met_314354.jpg,,Horizonte Medio,met,314354,periodicidad debil,False,,,,2.87,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2228,
+wari,data/raw/met/images/met_314355.jpg,,Horizonte Medio,met,314355,periodicidad debil,False,,,,14.52,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2389,
+nasca,data/raw/met/images/met_314363.jpg,,Intermedio Temprano,met,314363,sin periodicidad,False,,,,12.4,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+inca,data/raw/met/images/met_314528.jpg,p2mm,Horizonte Tardio,met,314528,ok,False,0.0,0.0,1,13.1,0.7082,0.8378,Textiles-Woven,45.0,,0.0,,0.0,0.7082,0.8378,no determinada,0.1478,0.6819,0.1177,0.2158,2,0.466,0.6657,pmm
+chimu,data/raw/met/images/met_314613.jpg,,Intermedio Tardio,met,314613,periodicidad debil,False,,,,11.39,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3927,
+inca,data/raw/met/images/met_314614.jpg,p1m1,Horizonte Tardio,met,314614,ok,False,0.0,0.0,1,15.48,0.4933,0.8051,Textiles-Woven,,45.0,,0.0,0.0,0.4933,0.8051,no determinada,0.365,0.5177,0.4157,0.312,1,0.6646,0.4758,pm
+inca,data/raw/met/images/met_314615.jpg,p1m1,Horizonte Tardio,met,314615,ok,False,0.0,0.0,1,2.29,0.366,0.4286,Textiles-Woven,15.0,,0.1333,,0.0,0.366,0.4286,no determinada,0.0835,0.3557,0.0857,0.0728,1,0.38,0.5429,pm
+inca,data/raw/met/images/met_314616.jpg,p2mm,Horizonte Tardio,met,314616,ok,False,0.0,0.0,1,2.8,0.5065,0.5337,Textiles-Woven,22.0,,0.0909,,0.0,0.5065,0.5337,no determinada,0.1409,0.5269,0.1144,0.1001,2,0.448,0.64,pmm
+inca,data/raw/met/images/met_314617.jpg,,Horizonte Tardio,met,314617,periodicidad debil,False,,,,3.04,,,Textiles-Woven,,,,,3.5,,,no determinada,,,,,,,0.1984,
+no determinada,data/raw/met/images/met_314618.jpg,p2mm,no determinado,met,314618,ok,True,0.0,0.0,1,7.27,0.4965,0.7254,Textiles-Woven,24.0,,0.0,,0.0,0.4965,0.7254,costa central,0.1781,0.4802,0.2064,0.1953,2,0.4751,0.6787,pmm
+wari,data/raw/met/images/met_314620.jpg,,Horizonte Medio,met,314620,sin periodicidad,False,,,,14.52,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_314621.jpg,,Horizonte Medio,met,314621,sin periodicidad,False,,,,14.55,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_314622.jpg,,Horizonte Medio,met,314622,sin periodicidad,False,,,,12.78,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_314623.jpg,,Horizonte Medio,met,314623,sin periodicidad,False,,,,12.82,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_314624.jpg,,Horizonte Medio,met,314624,sin periodicidad,False,,,,14.17,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_314625.jpg,,Horizonte Medio,met,314625,sin periodicidad,False,,,,12.35,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_314686.jpg,,Intermedio Tardio,met,314686,sin periodicidad,False,,,,2.72,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_314894.jpg,,Intermedio Tardio,met,314894,sin periodicidad,False,,,,12.0,,,Textiles-Featherwork,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_315048.jpg,,no determinado,met,315048,periodicidad debil,False,,,,2.7,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.4207,
+paracas,data/raw/met/images/met_315049.jpg,,Horizonte Temprano,met,315049,sin periodicidad,False,,,,0.39,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,,
+wari,data/raw/met/images/met_315050.jpg,,Horizonte Medio,met,315050,periodicidad debil,False,,,,2.64,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3041,
+wari,data/raw/met/images/met_315429.jpg,,Horizonte Medio,met,315429,sin periodicidad,False,,,,2.91,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_315685.jpg,,Intermedio Tardio,met,315685,periodicidad debil,True,,,,3.77,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3256,
+wari,data/raw/met/images/met_315686.jpg,,Horizonte Medio,met,315686,sin periodicidad,False,,,,13.58,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+inca,data/raw/met/images/met_315690.jpg,,Horizonte Tardio,met,315690,periodicidad debil,False,,,,2.86,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3279,
+nasca,data/raw/met/images/met_315700.jpg,,Intermedio Temprano,met,315700,sin periodicidad,False,,,,9.38,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_315703.jpg,,Intermedio Tardio,met,315703,sin periodicidad,False,,,,11.07,,,Feathers-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_315768.jpg,p11m,Intermedio Tardio,met,315768,ok,False,0.0,0.0,1,12.6,0.6649,0.7386,Textiles-Woven,,24.0,,0.0,0.0,0.6649,0.7386,no determinada,0.5278,0.6521,0.528,0.5823,1,0.6582,0.6358,pm
+chimu,data/raw/met/images/met_315769.jpg,,Intermedio Tardio,met,315769,sin periodicidad,False,,,,12.38,,,Textiles-Woven,,,,,-43.67,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_315772.jpg,,Intermedio Temprano,met,315772,periodicidad debil,False,,,,15.68,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3948,
+inca,data/raw/met/images/met_315773.jpg,,Horizonte Tardio,met,315773,sin periodicidad,False,,,,3.01,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chancay,data/raw/met/images/met_315774.jpg,,Intermedio Tardio,met,315774,periodicidad debil,False,,,,1.56,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3699,
+chancay,data/raw/met/images/met_315775.jpg,,Intermedio Tardio,met,315775,periodicidad debil,False,,,,4.81,,,Textiles-Non-Woven,,,,,0.0,,,no determinada,,,,,,,0.2043,
+chancay,data/raw/met/images/met_315776.jpg,,Intermedio Tardio,met,315776,periodicidad debil,False,,,,5.34,,,Textiles-Non-Woven,,,,,0.0,,,no determinada,,,,,,,0.1884,
+chavin,data/raw/met/images/met_315784.jpg,,Horizonte Temprano,met,315784,periodicidad debil,False,,,,8.32,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.1862,
+no determinada,data/raw/met/images/met_315785.jpg,,no determinado,met,315785,periodicidad debil,False,,,,1.7,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3478,
+moche,data/raw/met/images/met_315786.jpg,,Intermedio Temprano,met,315786,sin periodicidad,False,,,,11.62,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+moche,data/raw/met/images/met_315787.jpg,,Intermedio Temprano,met,315787,periodicidad debil,False,,,,1.7,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.1082,
+moche,data/raw/met/images/met_315788.jpg,p2mm,Intermedio Temprano,met,315788,ok,False,0.0,0.0,1,2.76,0.7448,0.8131,Textiles-Woven,226.0,,0.2124,,0.0,0.7448,0.8131,no determinada,0.1942,0.7435,0.1996,0.1509,2,0.4185,0.5979,pmm
+moche,data/raw/met/images/met_315789.jpg,p2mm,Intermedio Temprano,met,315789,ok,False,0.0,0.0,1,2.76,0.7448,0.8131,Textiles-Woven,226.0,,0.2124,,0.0,0.7448,0.8131,no determinada,0.1942,0.7435,0.1996,0.1509,2,0.4185,0.5979,pmm
+no determinada,data/raw/met/images/met_315790.jpg,,no determinado,met,315790,periodicidad debil,False,,,,2.24,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2251,
+moche,data/raw/met/images/met_315791.jpg,,Intermedio Temprano,met,315791,periodicidad debil,False,,,,10.6,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.231,
+chancay,data/raw/met/images/met_315792.jpg,,Intermedio Tardio,met,315792,periodicidad debil,True,,,,2.33,,,Textiles-Non-Woven,,,,,-39.29,,,no determinada,,,,,,,0.1604,
+moche,data/raw/met/images/met_315797.jpg,,Intermedio Temprano,met,315797,periodicidad debil,False,,,,1.07,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2965,
+wari,data/raw/met/images/met_316339.jpg,,Horizonte Medio,met,316339,sin periodicidad,False,,,,14.44,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316340.jpg,,Horizonte Medio,met,316340,sin periodicidad,False,,,,13.31,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316341.jpg,,Horizonte Medio,met,316341,sin periodicidad,False,,,,12.46,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316342.jpg,,Horizonte Medio,met,316342,sin periodicidad,False,,,,12.54,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316343.jpg,,Horizonte Medio,met,316343,sin periodicidad,False,,,,12.55,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316727.jpg,,Horizonte Medio,met,316727,sin periodicidad,False,,,,11.27,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+inca,data/raw/met/images/met_316822.jpg,,Horizonte Tardio,met,316822,periodicidad debil,False,,,,0.8,,,Textiles-Featherwork,,,,,0.0,,,no determinada,,,,,,,0.4422,
+no determinada,data/raw/met/images/met_316892.jpg,,no determinado,met,316892,periodicidad debil,False,,,,2.77,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3223,
+no determinada,data/raw/met/images/met_316893.jpg,,no determinado,met,316893,periodicidad debil,False,,,,1.94,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3311,
+no determinada,data/raw/met/images/met_316894.jpg,,no determinado,met,316894,periodicidad debil,False,,,,1.22,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2507,
+no determinada,data/raw/met/images/met_316895.jpg,,no determinado,met,316895,periodicidad debil,False,,,,1.18,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2834,
+no determinada,data/raw/met/images/met_316904.jpg,,no determinado,met,316904,sin periodicidad,False,,,,2.43,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_316905.jpg,,no determinado,met,316905,sin periodicidad,False,,,,1.34,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_316910.jpg,,no determinado,met,316910,periodicidad debil,False,,,,1.02,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.411,
+no determinada,data/raw/met/images/met_316912.jpg,,no determinado,met,316912,sin periodicidad,False,,,,3.1,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+moche,data/raw/met/images/met_316913.jpg,,Intermedio Temprano,met,316913,periodicidad debil,False,,,,13.66,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2777,
+no determinada,data/raw/met/images/met_316914.jpg,p2mm,no determinado,met,316914,ok,False,0.0,0.0,1,0.34,0.672,0.6882,Textiles-Featherwork,34.0,,0.2059,,0.0,0.672,0.6882,no determinada,0.1562,0.6237,0.1414,0.1921,2,0.456,0.5018,pmm
+no determinada,data/raw/met/images/met_316915.jpg,p2mm,no determinado,met,316915,ok,False,0.0,0.0,1,1.58,0.7339,0.742,Textiles-Woven,,31.0,,0.0,0.0,0.7339,0.742,no determinada,0.1379,0.7035,0.1205,0.1228,2,0.4722,0.6746,pmm
+no determinada,data/raw/met/images/met_316916.jpg,,no determinado,met,316916,periodicidad debil,False,,,,1.9,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2706,
+no determinada,data/raw/met/images/met_316917.jpg,,no determinado,met,316917,periodicidad debil,False,,,,2.99,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2702,
+no determinada,data/raw/met/images/met_316918.jpg,,no determinado,met,316918,periodicidad debil,False,,,,2.72,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.1422,
+colonial,data/raw/met/images/met_316919.jpg,,Colonial/Republicano,met,316919,periodicidad debil,False,,,,2.17,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.438,
+colonial,data/raw/met/images/met_316920.jpg,p2mm,Colonial/Republicano,met,316920,ok,True,0.0,0.0,1,2.71,0.7077,0.7384,Textiles-Woven,141.0,,0.0,,0.0,0.7077,0.7384,no determinada,0.3764,0.6339,0.3609,0.2759,2,0.5196,0.5005,pmm
+nasca,data/raw/met/images/met_316921.jpg,p1m1,Intermedio Temprano,met,316921,ok,True,0.0,0.0,2,0.61,0.5157,0.6945,Textiles-Woven,24.0,21.0,0.0,0.2857,0.0,0.5157,0.6945,no determinada,0.3072,0.4668,0.3905,0.2779,1,0.6182,0.5264,pm
+colonial,data/raw/met/images/met_316922.jpg,,Colonial/Republicano,met,316922,sin periodicidad,True,,,,2.94,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+colonial,data/raw/met/images/met_316923.jpg,,Colonial/Republicano,met,316923,sin periodicidad,True,,,,2.94,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316924.jpg,,Horizonte Medio,met,316924,periodicidad debil,False,,,,1.61,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.1437,
+nasca,data/raw/met/images/met_316925.jpg,,Intermedio Temprano,met,316925,periodicidad debil,True,,,,1.88,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3381,
+inca,data/raw/met/images/met_316926.jpg,,Horizonte Tardio,met,316926,sin periodicidad,False,,,,12.0,,,Textiles-Featherwork,,,,,0.0,,,no determinada,,,,,,,,
+inca,data/raw/met/images/met_316928.jpg,p1,Horizonte Tardio,met,316928,ok,True,0.0,0.0,1,2.05,0.3787,0.6862,Textiles-Woven,,14.0,,0.0714,0.0,0.3787,0.6862,no determinada,0.3934,0.4206,0.4598,0.3499,1,0.7835,0.7306,p1
+colonial,data/raw/met/images/met_316929.jpg,,Colonial/Republicano,met,316929,sin periodicidad,False,,,,2.34,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+colonial,data/raw/met/images/met_316930.jpg,,Colonial/Republicano,met,316930,sin periodicidad,True,,,,1.74,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_316931.JPG,,no determinado,met,316931,sin periodicidad,False,,,,7.96,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316932.jpg,,Horizonte Medio,met,316932,sin periodicidad,False,,,,1.21,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316933.jpg,,Horizonte Medio,met,316933,periodicidad debil,False,,,,1.55,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2784,
+wari,data/raw/met/images/met_316934.jpg,,Horizonte Medio,met,316934,sin periodicidad,False,,,,1.78,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+nasca,data/raw/met/images/met_316935.jpg,,Intermedio Temprano,met,316935,sin periodicidad,True,,,,1.13,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316936.jpg,,Horizonte Medio,met,316936,periodicidad debil,False,,,,2.28,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.4123,
+wari,data/raw/met/images/met_316937.jpg,,Horizonte Medio,met,316937,periodicidad debil,False,,,,2.21,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3294,
+inca,data/raw/met/images/met_316938.JPG,,Horizonte Tardio,met,316938,sin periodicidad,True,,,,7.96,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+inca,data/raw/met/images/met_316939.jpg,p1m1,Horizonte Tardio,met,316939,ok,False,0.0,0.0,1,12.59,0.4354,0.8885,Textiles-Woven,158.0,,0.0696,,-0.36,0.4354,0.8885,no determinada,0.2602,0.4335,0.273,0.2336,1,0.6572,0.4696,pm
+no determinada,data/raw/met/images/met_316940.jpg,,no determinado,met,316940,sin periodicidad,False,,,,2.61,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+ica,data/raw/met/images/met_316941.jpg,,Intermedio Tardio,met,316941,sin periodicidad,False,,,,12.0,,,Textiles-Featherwork,,,,,0.0,,,no determinada,,,,,,,,
+ica,data/raw/met/images/met_316942.jpg,p1m1,Intermedio Tardio,met,316942,ok,False,0.0,0.0,1,12.0,0.7477,0.8485,Textiles-Featherwork,,55.0,,0.0,0.0,0.7477,0.8485,no determinada,0.4497,0.7144,0.5737,0.5044,1,0.84,0.4699,pm
+no determinada,data/raw/met/images/met_316943.jpg,,no determinado,met,316943,sin periodicidad,False,,,,1.04,,,Textiles-Featherwork,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_316944.jpg,,no determinado,met,316944,sin periodicidad,False,,,,1.35,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+paracas,data/raw/met/images/met_316945.jpg,p2mm,Horizonte Temprano,met,316945,ok,False,0.0,0.0,1,3.12,0.7003,0.6967,Textiles-Woven,26.0,,0.0769,,0.0,0.7003,0.6967,costa sur,0.082,0.6977,0.0895,0.0907,2,0.4441,0.6344,pmm
+no determinada,data/raw/met/images/met_316946.jpg,,no determinado,met,316946,periodicidad debil,False,,,,1.02,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3605,
+no determinada,data/raw/met/images/met_316947.jpg,,no determinado,met,316947,sin periodicidad,False,,,,0.98,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_316948.jpg,,no determinado,met,316948,periodicidad debil,False,,,,0.79,,,Textiles-Costumes,,,,,-24.3,,,no determinada,,,,,,,0.1909,
+no determinada,data/raw/met/images/met_316949.jpg,,no determinado,met,316949,periodicidad debil,False,,,,2.44,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,0.3326,
+no determinada,data/raw/met/images/met_316950.jpg,,no determinado,met,316950,sin periodicidad,False,,,,3.22,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_316951.jpg,,no determinado,met,316951,sin periodicidad,False,,,,0.82,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_316952.jpg,,no determinado,met,316952,periodicidad debil,False,,,,0.77,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3718,
+no determinada,data/raw/met/images/met_316953.jpg,,no determinado,met,316953,sin periodicidad,False,,,,0.82,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_316954.jpg,,no determinado,met,316954,sin periodicidad,False,,,,0.6,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_316955.jpg,,no determinado,met,316955,sin periodicidad,False,,,,13.75,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_316956.jpg,p1,no determinado,met,316956,ok,False,0.0,0.0,1,14.63,0.4586,0.6699,Textiles-Costumes,,17.0,,0.0,0.0,0.4586,0.6699,no determinada,0.3974,0.3887,0.4696,0.4493,1,0.7267,0.583,p1
+no determinada,data/raw/met/images/met_316957.jpg,,no determinado,met,316957,sin periodicidad,False,,,,13.95,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_316958.jpg,,no determinado,met,316958,sin periodicidad,False,,,,14.24,,,Textiles-Featherwork,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_316959.jpg,,no determinado,met,316959,sin periodicidad,False,,,,13.76,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_316960.jpg,p1,no determinado,met,316960,ok,False,0.0,0.0,1,15.42,0.4335,0.6726,Textiles-Costumes,,19.0,,0.0,0.0,0.4335,0.6726,no determinada,0.3062,0.3267,0.4218,0.3506,1,0.7027,0.506,p1
+no determinada,data/raw/met/images/met_316961.jpg,p1,no determinado,met,316961,ok,False,0.0,0.0,1,15.52,0.3636,0.563,Textiles-Featherwork,,17.0,,0.0,0.0,0.3636,0.563,no determinada,0.2876,0.322,0.4435,0.3492,1,0.6658,0.5637,p1
+wari,data/raw/met/images/met_316962.jpg,,Horizonte Medio,met,316962,sin periodicidad,False,,,,13.1,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316963.jpg,,Horizonte Medio,met,316963,sin periodicidad,False,,,,12.94,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316964.jpg,,Horizonte Medio,met,316964,sin periodicidad,False,,,,13.63,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316965.jpg,,Horizonte Medio,met,316965,sin periodicidad,False,,,,13.5,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316966.jpg,,Horizonte Medio,met,316966,sin periodicidad,False,,,,13.7,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316967.jpg,,Horizonte Medio,met,316967,sin periodicidad,False,,,,12.55,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316968.jpg,,Horizonte Medio,met,316968,sin periodicidad,False,,,,12.33,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316969.jpg,,Horizonte Medio,met,316969,sin periodicidad,False,,,,12.55,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316970.jpg,,Horizonte Medio,met,316970,sin periodicidad,False,,,,11.6,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316971.jpg,,Horizonte Medio,met,316971,sin periodicidad,False,,,,12.42,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316972.jpg,,Horizonte Medio,met,316972,sin periodicidad,False,,,,13.22,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316973.jpg,,Horizonte Medio,met,316973,sin periodicidad,False,,,,13.03,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316974.jpg,,Horizonte Medio,met,316974,periodicidad debil,False,,,,13.55,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,0.2809,
+wari,data/raw/met/images/met_316975.jpg,,Horizonte Medio,met,316975,sin periodicidad,False,,,,13.04,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316976.jpg,,Horizonte Medio,met,316976,sin periodicidad,False,,,,12.59,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316977.jpg,,Horizonte Medio,met,316977,sin periodicidad,False,,,,12.2,,,Textiles-Costumes,,,,,0.0,,,no determinada,,,,,,,,
+wari,data/raw/met/images/met_316978.jpg,,Horizonte Medio,met,316978,sin periodicidad,False,,,,15.19,,,Textiles-Costumes,,,,,0.0,,,altiplano,,,,,,,,
+tiwanaku,data/raw/met/images/met_316979.jpg,,Horizonte Medio,met,316979,sin periodicidad,False,,,,13.69,,,Textiles-Costumes,,,,,0.0,,,altiplano,,,,,,,,
+tiwanaku,data/raw/met/images/met_316980.jpg,,Horizonte Medio,met,316980,sin periodicidad,True,,,,15.05,,,Textiles-Costumes,,,,,0.0,,,altiplano,,,,,,,,
+tiwanaku,data/raw/met/images/met_316981.jpg,,Horizonte Medio,met,316981,periodicidad debil,True,,,,14.98,,,Textiles-Costumes,,,,,0.0,,,altiplano,,,,,,,0.438,
+tiwanaku,data/raw/met/images/met_316982.jpg,,Horizonte Medio,met,316982,sin periodicidad,True,,,,13.99,,,Textiles-Costumes,,,,,0.0,,,altiplano,,,,,,,,
+tiwanaku,data/raw/met/images/met_316983.jpg,,Horizonte Medio,met,316983,periodicidad debil,True,,,,14.5,,,Textiles-Costumes,,,,,0.0,,,altiplano,,,,,,,0.3129,
+tiwanaku,data/raw/met/images/met_316984.jpg,,Horizonte Medio,met,316984,sin periodicidad,True,,,,15.1,,,Textiles-Costumes,,,,,0.0,,,altiplano,,,,,,,,
+tiwanaku,data/raw/met/images/met_316985.jpg,,Horizonte Medio,met,316985,sin periodicidad,True,,,,12.79,,,Textiles-Costumes,,,,,0.0,,,altiplano,,,,,,,,
+tiwanaku,data/raw/met/images/met_316986.jpg,,Horizonte Medio,met,316986,sin periodicidad,True,,,,11.66,,,Textiles-Costumes,,,,,0.0,,,altiplano,,,,,,,,
+tiwanaku,data/raw/met/images/met_316987.jpg,,Horizonte Medio,met,316987,sin periodicidad,True,,,,13.42,,,Textiles-Costumes,,,,,0.0,,,altiplano,,,,,,,,
+wari,data/raw/met/images/met_316988.jpg,,Horizonte Medio,met,316988,sin periodicidad,True,,,,11.18,,,Textiles-Costumes,,,,,0.0,,,altiplano,,,,,,,,
+tiwanaku,data/raw/met/images/met_316989.jpg,,Horizonte Medio,met,316989,sin periodicidad,True,,,,13.96,,,Textiles-Costumes,,,,,0.0,,,altiplano,,,,,,,,
+no determinada,data/raw/met/images/met_317645.jpg,,no determinado,met,317645,periodicidad debil,False,,,,0.37,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.4477,
+chuquibamba,data/raw/met/images/met_317736.jpg,,Intermedio Tardio,met,317736,periodicidad debil,False,,,,11.62,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.4098,
+no determinada,data/raw/met/images/met_318046.jpg,,no determinado,met,318046,sin periodicidad,False,,,,0.49,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+colonial,data/raw/met/images/met_318113.jpg,,Colonial/Republicano,met,318113,sin periodicidad,False,,,,2.69,,,Textiles-Woven,,,,,0.0,,,altiplano,,,,,,,,
+colonial,data/raw/met/images/met_318145.jpg,p2mm,Colonial/Republicano,met,318145,ok,True,0.0,0.0,1,6.1,0.8158,0.7954,Textiles-Woven,119.0,,0.0504,,0.0,0.8158,0.7954,no determinada,0.1195,0.8408,0.0999,0.1638,2,0.3745,0.535,pmm
+colonial,data/raw/met/images/met_318146.jpg,,Colonial/Republicano,met,318146,sin periodicidad,True,,,,0.75,,,Textiles-Woven,,,,,0.0,,,altiplano,,,,,,,,
+colonial,data/raw/met/images/met_318147.jpg,,Colonial/Republicano,met,318147,sin periodicidad,True,,,,3.23,,,Textiles-Woven,,,,,0.0,,,altiplano,,,,,,,,
+colonial,data/raw/met/images/met_318148.jpg,,Colonial/Republicano,met,318148,sin periodicidad,True,,,,10.07,,,Textiles-Woven,,,,,0.0,,,altiplano,,,,,,,,
+colonial,data/raw/met/images/met_318149.jpg,,Colonial/Republicano,met,318149,sin periodicidad,False,,,,10.74,,,Textiles-Woven,,,,,0.0,,,altiplano,,,,,,,,
+colonial,data/raw/met/images/met_318164.jpg,p2mm,Colonial/Republicano,met,318164,ok,True,0.0,0.0,1,9.12,0.7323,0.783,Textiles-Woven,28.0,,0.0,,0.0,0.7323,0.783,no determinada,0.1212,0.8295,0.1574,0.1264,2,0.4286,0.6123,pmm
+colonial,data/raw/met/images/met_318165.jpg,p2mg,Colonial/Republicano,met,318165,ok,True,0.9401,0.0,1,12.0,0.0,0.9417,Textiles-Woven,102.0,,0.4412,,0.0,0.9401,0.9417,altiplano,0.5399,0.9442,0.5898,0.7012,2,0.7841,0.7404,pmg
+colonial,data/raw/met/images/met_318173.jpg,,Colonial/Republicano,met,318173,sin periodicidad,False,,,,2.18,,,Textiles-Woven,,,,,0.0,,,altiplano,,,,,,,,
+colonial,data/raw/met/images/met_318175.jpg,,Colonial/Republicano,met,318175,periodicidad debil,True,,,,7.27,,,Textiles-Woven,,,,,0.0,,,altiplano,,,,,,,0.2384,
+paracas,data/raw/met/images/met_318460.jpg,,Horizonte Temprano,met,318460,periodicidad debil,False,,,,2.36,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.2628,
+no determinada,data/raw/met/images/met_318529.jpg,,no determinado,met,318529,sin periodicidad,True,,,,10.86,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_318569.jpg,,no determinado,met,318569,sin periodicidad,True,,,,5.33,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/met/images/met_318634.jpg,p11m,Intermedio Tardio,met,318634,ok,False,0.0,0.0,1,10.9,0.449,0.5302,Textiles-Woven,40.0,,0.0,,0.0,0.449,0.5302,no determinada,0.2791,0.342,0.2011,0.2936,1,0.4259,0.4593,pm
+recuay,data/raw/met/images/met_318746.jpg,,Intermedio Temprano,met,318746,sin periodicidad,False,,,,4.24,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chuquibamba,data/raw/met/images/met_318747.jpg,p2mm,Intermedio Tardio,met,318747,ok,False,0.0,0.0,1,0.94,0.3871,0.5062,Textiles-Woven,25.0,,0.24,,0.0,0.3871,0.5062,no determinada,0.1369,0.3951,0.1491,0.1129,2,0.3544,0.5062,pmm
+chuquibamba,data/raw/met/images/met_318769.jpg,,Intermedio Tardio,met,318769,periodicidad debil,False,,,,7.65,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.4141,
+chuquibamba,data/raw/met/images/met_318770.jpg,,Intermedio Tardio,met,318770,sin periodicidad,False,,,,1.72,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+chuquibamba,data/raw/met/images/met_318771.jpg,,Intermedio Tardio,met,318771,sin periodicidad,False,,,,11.58,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+inca,data/raw/met/images/met_318888.jpg,,Horizonte Tardio,met,318888,sin periodicidad,False,,,,15.12,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/met/images/met_318889.jpg,,no determinado,met,318889,periodicidad debil,True,,,,0.31,,,Textiles-Woven,,,,,0.0,,,sierra sur,,,,,,,0.4261,
+no determinada,data/raw/met/images/met_319223.jpg,,no determinado,met,319223,periodicidad debil,False,,,,1.13,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3626,
+no determinada,data/raw/met/images/met_319252.jpg,p1,no determinado,met,319252,ok,False,0.0,0.0,1,0.56,0.3991,0.3855,Textiles-Woven,,25.0,,0.0,0.0,0.3991,0.3855,no determinada,0.2418,0.4146,0.273,0.2297,1,0.5636,0.459,p1
+paracas,data/raw/met/images/met_319266.jpg,p11m,Horizonte Temprano,met,319266,ok,False,0.0,0.0,1,0.71,0.3794,0.4808,Textiles-Woven,18.0,,0.0,,0.0,0.3794,0.4808,costa sur,0.1926,0.327,0.2138,0.2075,1,0.3555,0.4544,pm
+no determinada,data/raw/met/images/met_319320.jpg,p2,no determinado,met,319320,ok,False,0.0,0.0,1,0.38,0.594,0.3631,Textiles-Woven,23.0,,0.0,,0.0,0.594,0.3631,no determinada,0.112,0.4031,0.108,0.1158,2,0.3742,0.5345,pmm
+nasca,data/raw/met/images/met_319523.jpg,,Intermedio Temprano,met,319523,periodicidad debil,False,,,,0.73,,,Textiles-Featherwork,,,,,0.0,,,no determinada,,,,,,,0.3183,
+inca,data/raw/met/images/met_319524.jpg,p1m1,Horizonte Tardio,met,319524,ok,False,0.0,0.0,1,7.96,0.4522,0.7824,Textiles-Woven,56.0,,0.2143,,0.0,0.4522,0.7824,no determinada,0.1103,0.4559,0.086,0.0563,1,0.4748,0.6783,pm
+inca,data/raw/met/images/met_319574.jpg,,Horizonte Tardio,met,319574,periodicidad debil,False,,,,13.06,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3231,
+colonial,data/raw/met/images/met_319585.jpg,,Colonial/Republicano,met,319585,periodicidad debil,True,,,,11.05,,,Textiles-Woven,,,,,0.0,,,altiplano,,,,,,,0.4118,
+paracas,data/raw/met/images/met_319588.jpg,,Horizonte Temprano,met,319588,periodicidad debil,True,,,,4.75,,,Textiles-Woven,,,,,0.0,,,costa sur,,,,,,,0.2959,
+chimu,data/raw/met/images/met_319627.jpg,,Intermedio Tardio,met,319627,periodicidad debil,False,,,,1.04,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.4125,
+chimu,data/raw/met/images/met_319863.jpg,p2mg,Intermedio Tardio,met,319863,ok,False,0.5818,0.0,1,3.15,0.0,0.5831,Textiles-Featherwork,24.0,,0.4583,,0.0,0.5818,0.5831,no determinada,0.2262,0.5017,0.2143,0.2308,2,0.4903,0.6512,pmg
+inca,data/raw/met/images/met_320054.jpg,p2mm,Horizonte Tardio,met,320054,ok,False,0.0,0.0,1,12.66,0.715,0.8075,Textiles-Woven,,136.0,,0.0,0.0,0.715,0.8075,altiplano,0.1885,0.7048,0.1973,0.1764,2,0.4551,0.5296,pmm
+no determinada,data/raw/met/images/met_320615.jpg,p1m1,no determinado,met,320615,ok,False,0.0,0.0,1,11.15,0.4761,0.7516,Textiles-Woven,84.0,,0.2857,,0.0,0.4761,0.7516,altiplano,0.3002,0.4671,0.3902,0.2418,1,0.6226,0.4892,pm
+no determinada,data/raw/met/images/met_320804.jpg,,no determinado,met,320804,periodicidad debil,True,,,,5.38,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.3084,
+no determinada,data/raw/met/images/met_646249.jpg,,no determinado,met,646249,periodicidad debil,False,,,,7.8,,,Textiles-Costumes,,,,,0.0,,,costa central,,,,,,,0.2191,
+wari,data/raw/met/images/met_675980.jpg,,Horizonte Medio,met,675980,periodicidad debil,False,,,,15.83,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.1885,
+inca,data/raw/met/images/met_751900.jpg,p11m,Horizonte Tardio,met,751900,ok,False,0.0,0.0,2,13.44,0.4712,0.9138,Textiles-Costumes,30.0,33.0,0.0,0.0,0.0,0.4712,0.9138,altiplano,0.2968,0.4457,0.2835,0.4255,1,0.4518,0.6454,pm
+wari,data/raw/met/images/met_776429.jpg,p2mg,Horizonte Medio,met,776429,ok,False,0.7912,0.0,1,6.67,0.0,0.869,Textiles-Featherwork,159.0,,0.4969,,-0.36,0.7912,0.869,costa sur,0.0873,0.8191,0.1079,0.0922,2,0.5919,0.8455,pmg
+wari,data/raw/met/images/met_833953.jpg,,Horizonte Medio,met,833953,periodicidad debil,False,,,,15.15,,,Textiles-Woven,,,,,0.0,,,no determinada,,,,,,,0.2679,
+chavin,data/raw/cleveland/images/cma_152258.jpg,,Horizonte Temprano,cleveland,152258,periodicidad debil,False,,,,6.41,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.2906,
+chimu,data/raw/cleveland/images/cma_164421.jpg,,Intermedio Tardio,cleveland,164421,periodicidad debil,False,,,,10.28,,,Garment,,,,,0.0,,,costa norte,,,,,,,0.3248,
+paracas,data/raw/cleveland/images/cma_124739.jpg,,Horizonte Temprano,cleveland,124739,periodicidad debil,False,,,,6.24,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.4251,
+chimu,data/raw/cleveland/images/cma_164423.jpg,,Intermedio Tardio,cleveland,164423,sin periodicidad,False,,,,4.91,,,Garment,,,,,0.0,,,costa norte,,,,,,,,
+paracas,data/raw/cleveland/images/cma_119690.jpg,,Horizonte Temprano,cleveland,119690,periodicidad debil,False,,,,8.69,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.2004,
+paracas,data/raw/cleveland/images/cma_124740.jpg,,Horizonte Temprano,cleveland,124740,periodicidad debil,False,,,,2.72,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.4244,
+chimu,data/raw/cleveland/images/cma_164424.jpg,p1,Intermedio Tardio,cleveland,164424,ok,False,0.0,0.0,1,5.22,0.2912,0.2963,Garment,18.0,,0.3333,,3.18,0.2912,0.2963,costa norte,0.3677,0.3804,0.4035,0.3715,1,0.5549,0.5077,p1
+chimu,data/raw/cleveland/images/cma_164420.jpg,p1,Intermedio Tardio,cleveland,164420,ok,False,0.0,0.0,2,6.91,0.409,0.3393,Textile,32.0,35.0,0.25,0.0,0.0,0.409,0.3393,costa norte,0.0674,0.3373,0.0638,0.1245,1,0.422,0.6029,p1
+paracas,data/raw/cleveland/images/cma_124741.jpg,p2mg,Horizonte Temprano,cleveland,124741,ok,False,0.7278,0.0,1,5.19,0.0,0.812,Textile,119.0,,0.4454,,0.0,0.7278,0.812,costa sur,0.1437,0.7495,0.1887,0.104,2,0.4456,0.6366,pmg
+moche,data/raw/cleveland/images/cma_165270.jpg,,Intermedio Temprano,cleveland,165270,sin periodicidad,False,,,,8.61,,,Textile,,,,,0.0,,,costa norte,,,,,,,,
+moche,data/raw/cleveland/images/cma_165272.jpg,,Intermedio Temprano,cleveland,165272,sin periodicidad,False,,,,8.28,,,Textile,,,,,0.0,,,costa norte,,,,,,,,
+moche,data/raw/cleveland/images/cma_165271.jpg,,Intermedio Temprano,cleveland,165271,sin periodicidad,False,,,,8.19,,,Textile,,,,,0.0,,,costa norte,,,,,,,,
+nasca,data/raw/cleveland/images/cma_130762.jpg,p2mm,Intermedio Temprano,cleveland,130762,ok,False,0.0,0.0,1,2.08,0.7951,0.7849,Textile,,54.0,,0.2963,0.0,0.7951,0.7849,costa sur,0.0646,0.852,0.0608,0.0601,2,0.5726,0.818,pmm
+chimu,data/raw/cleveland/images/cma_164422.jpg,,Intermedio Tardio,cleveland,164422,periodicidad debil,False,,,,5.36,,,Garment,,,,,0.0,,,costa norte,,,,,,,0.2733,
+moche,data/raw/cleveland/images/cma_165269.jpg,,Intermedio Temprano,cleveland,165269,sin periodicidad,False,,,,8.84,,,Textile,,,,,0.0,,,costa norte,,,,,,,,
+moche,data/raw/cleveland/images/cma_165267.jpg,,Intermedio Temprano,cleveland,165267,periodicidad debil,False,,,,7.78,,,Textile,,,,,0.0,,,costa norte,,,,,,,0.2195,
+moche,data/raw/cleveland/images/cma_165268.jpg,,Intermedio Temprano,cleveland,165268,periodicidad debil,False,,,,8.13,,,Textile,,,,,0.0,,,costa norte,,,,,,,0.2703,
+moche,data/raw/cleveland/images/cma_165266.jpg,,Intermedio Temprano,cleveland,165266,periodicidad debil,False,,,,7.78,,,Textile,,,,,0.0,,,costa norte,,,,,,,0.2195,
+paracas,data/raw/cleveland/images/cma_119676.jpg,,Horizonte Temprano,cleveland,119676,sin periodicidad,False,,,,3.95,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/cleveland/images/cma_119677.jpg,,Horizonte Temprano,cleveland,119677,sin periodicidad,False,,,,4.15,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/cleveland/images/cma_119678.jpg,,Horizonte Temprano,cleveland,119678,sin periodicidad,False,,,,4.81,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/cleveland/images/cma_119675.jpg,,Horizonte Temprano,cleveland,119675,periodicidad debil,True,,,,2.06,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.321,
+paracas,data/raw/cleveland/images/cma_119682.jpg,,Horizonte Temprano,cleveland,119682,sin periodicidad,False,,,,6.53,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+chimu,data/raw/cleveland/images/cma_169189.jpg,,Intermedio Tardio,cleveland,169189,sin periodicidad,False,,,,4.82,,,Textile,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/cleveland/images/cma_164419.jpg,p1,Intermedio Tardio,cleveland,164419,ok,False,0.0,0.0,2,6.91,0.409,0.3393,Textile,32.0,35.0,0.25,0.0,0.0,0.409,0.3393,costa norte,0.0674,0.3373,0.0638,0.1245,1,0.422,0.6029,p1
+chimu,data/raw/cleveland/images/cma_169188.jpg,,Intermedio Tardio,cleveland,169188,sin periodicidad,False,,,,10.9,,,Textile,,,,,0.0,,,no determinada,,,,,,,,
+paracas,data/raw/cleveland/images/cma_119691.jpg,,Horizonte Temprano,cleveland,119691,periodicidad debil,False,,,,2.72,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.3536,
+inca,data/raw/cleveland/images/cma_134604.jpg,,Horizonte Tardio,cleveland,134604,periodicidad debil,False,,,,10.42,,,Textile,,,,,0.0,,,no determinada,,,,,,,0.373,
+paracas,data/raw/cleveland/images/cma_163708.jpg,p2mm,Horizonte Temprano,cleveland,163708,ok,True,0.0,0.0,1,8.54,0.5218,0.5784,Textile,30.0,,0.0,,0.0,0.5218,0.5784,costa sur,0.1513,0.5458,0.1755,0.2856,2,0.3179,0.4542,pmm
+no determinada,data/raw/cleveland/images/cma_162398.jpg,,no determinado,cleveland,162398,sin periodicidad,False,,,,4.32,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/cleveland/images/cma_119688.jpg,p11m,Horizonte Temprano,cleveland,119688,ok,False,0.0,0.0,1,7.57,0.5825,0.375,Textile,,14.0,,0.2143,0.0,0.5825,0.375,costa sur,0.4589,0.4453,0.4154,0.4126,1,0.5641,0.7088,pm
+paracas,data/raw/cleveland/images/cma_119680.jpg,,Horizonte Temprano,cleveland,119680,sin periodicidad,False,,,,6.33,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+wari,data/raw/cleveland/images/cma_126684.jpg,,Horizonte Medio,cleveland,126684,periodicidad debil,False,,,,11.51,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.2433,
+paracas,data/raw/cleveland/images/cma_119684.jpg,,Horizonte Temprano,cleveland,119684,sin periodicidad,False,,,,6.39,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/cleveland/images/cma_119687.jpg,,Horizonte Temprano,cleveland,119687,sin periodicidad,False,,,,7.29,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/cleveland/images/cma_119679.jpg,,Horizonte Temprano,cleveland,119679,sin periodicidad,False,,,,6.9,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+sican,data/raw/cleveland/images/cma_155934.jpg,p2mm,Intermedio Tardio,cleveland,155934,ok,False,0.0,0.0,1,5.04,0.437,0.6325,Tapestry,,20.0,,0.0,0.0,0.437,0.6325,costa norte,0.0725,0.4214,0.0832,0.1433,2,0.3277,0.4681,pmm
+paracas,data/raw/cleveland/images/cma_163640.jpg,p2mm,Horizonte Temprano,cleveland,163640,ok,True,0.0,0.0,1,3.12,0.7216,0.7872,Textile,,37.0,,0.0811,0.0,0.7216,0.7872,costa sur,0.1724,0.702,0.1408,0.1385,2,0.4107,0.5867,pmm
+chancay,data/raw/cleveland/images/cma_119652.jpg,,Intermedio Tardio,cleveland,119652,periodicidad debil,False,,,,3.45,,,Textile,,,,,0.0,,,costa central,,,,,,,0.1945,
+paracas,data/raw/cleveland/images/cma_119686.jpg,,Horizonte Temprano,cleveland,119686,sin periodicidad,False,,,,7.05,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/cleveland/images/cma_119683.jpg,,Horizonte Temprano,cleveland,119683,sin periodicidad,False,,,,7.26,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+nasca,data/raw/cleveland/images/cma_126273.jpg,p2mm,Intermedio Temprano,cleveland,126273,ok,False,0.0,0.0,1,3.64,0.8003,0.8119,Embroidery,73.0,,0.0548,,0.78,0.8003,0.8119,costa sur,0.131,0.7808,0.1241,0.1191,2,0.5158,0.7369,pmm
+chimu,data/raw/cleveland/images/cma_130555.jpg,,Intermedio Tardio,cleveland,130555,periodicidad debil,False,,,,6.46,,,Textile,,,,,0.0,,,costa norte,,,,,,,0.2311,
+nasca,data/raw/cleveland/images/cma_126272.jpg,p2mm,Intermedio Temprano,cleveland,126272,ok,False,0.0,0.0,1,3.59,0.7998,0.8114,Embroidery,73.0,,0.0548,,0.78,0.7998,0.8114,costa sur,0.1287,0.7802,0.1235,0.1191,2,0.5154,0.7362,pmm
+chimu,data/raw/cleveland/images/cma_156237.jpg,p2mm,Intermedio Tardio,cleveland,156237,ok,False,0.0,0.0,1,6.03,0.6395,0.679,Tapestry,,99.0,,0.0606,0.0,0.6395,0.679,costa central,0.2456,0.6055,0.2272,0.2335,2,0.4527,0.5742,pmm
+paracas,data/raw/cleveland/images/cma_152334.jpg,,Horizonte Temprano,cleveland,152334,sin periodicidad,False,,,,2.35,,,Embroidery,,,,,0.0,,,costa sur,,,,,,,,
+nasca,data/raw/cleveland/images/cma_126269.jpg,p2mm,Intermedio Temprano,cleveland,126269,ok,False,0.0,0.0,1,3.74,0.8021,0.8125,Embroidery,73.0,,0.0548,,0.78,0.8021,0.8125,costa sur,0.1308,0.7835,0.1179,0.1165,2,0.5215,0.745,pmm
+wari,data/raw/cleveland/images/cma_124412.jpg,,Horizonte Medio,cleveland,124412,periodicidad debil,False,,,,9.39,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.2512,
+paracas,data/raw/cleveland/images/cma_119689.jpg,,Horizonte Temprano,cleveland,119689,sin periodicidad,False,,,,7.07,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/cleveland/images/cma_119685.jpg,,Horizonte Temprano,cleveland,119685,sin periodicidad,False,,,,6.75,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/cleveland/images/cma_163622.jpg,,Horizonte Temprano,cleveland,163622,sin periodicidad,True,,,,2.71,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+chuquibamba,data/raw/cleveland/images/cma_119656.jpg,,Intermedio Tardio,cleveland,119656,periodicidad debil,False,,,,10.46,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.3273,
+wari,data/raw/cleveland/images/cma_134948.jpg,,Horizonte Medio,cleveland,134948,sin periodicidad,False,,,,11.43,,,Tapestry,,,,,0.0,,,costa sur,,,,,,,,
+chancay,data/raw/cleveland/images/cma_294068.jpg,,Intermedio Tardio,cleveland,294068,periodicidad debil,False,,,,10.98,,,Textile,,,,,0.0,,,costa central,,,,,,,0.4027,
+recuay,data/raw/cleveland/images/cma_157111.jpg,,Intermedio Temprano,cleveland,157111,sin periodicidad,False,,,,3.08,,,Textile,,,,,0.0,,,no determinada,,,,,,,,
+ica,data/raw/cleveland/images/cma_119655.jpg,,Intermedio Tardio,cleveland,119655,periodicidad debil,True,,,,5.29,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.3782,
+recuay,data/raw/cleveland/images/cma_157112.jpg,p2mm,Intermedio Temprano,cleveland,157112,ok,False,0.0,0.0,1,2.97,0.8603,0.8689,Textile,,15.0,,0.3333,0.0,0.8603,0.8689,no determinada,0.2148,0.8093,0.1072,0.1674,2,0.6257,0.8939,pmm
+nasca,data/raw/cleveland/images/cma_126271.jpg,p2mm,Intermedio Temprano,cleveland,126271,ok,False,0.0,0.0,1,3.58,0.7998,0.8112,Embroidery,73.0,,0.0548,,0.78,0.7998,0.8112,costa sur,0.1291,0.7803,0.124,0.1183,2,0.5152,0.736,pmm
+paracas,data/raw/cleveland/images/cma_137312.jpg,,Horizonte Temprano,cleveland,137312,sin periodicidad,False,,,,10.02,,,Embroidery,,,,,0.0,,,costa sur,,,,,,,,
+moche,data/raw/cleveland/images/cma_165273.jpg,,Intermedio Temprano,cleveland,165273,sin periodicidad,False,,,,11.53,,,Textile,,,,,0.0,,,costa norte,,,,,,,,
+wari,data/raw/cleveland/images/cma_134395.jpg,,Horizonte Medio,cleveland,134395,periodicidad debil,False,,,,10.98,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.3167,
+paracas,data/raw/cleveland/images/cma_119694.jpg,,Horizonte Temprano,cleveland,119694,periodicidad debil,False,,,,4.98,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.3658,
+pachacamac,data/raw/cleveland/images/cma_114131.jpg,,Horizonte Medio,cleveland,114131,sin periodicidad,False,,,,5.58,,,Textile,,,,,0.0,,,costa central,,,,,,,,
+wari,data/raw/cleveland/images/cma_165184.jpg,p2,Horizonte Medio,cleveland,165184,ok,False,0.0,0.5393,1,11.29,0.5914,0.0,Textile,,16.0,,0.375,0.0,0.5914,0.5393,no determinada,0.0509,0.518,0.0464,0.0628,2,0.4226,0.6037,pmg
+nasca,data/raw/cleveland/images/cma_126268.jpg,,Intermedio Temprano,cleveland,126268,sin periodicidad,False,,,,10.26,,,Embroidery,,,,,0.0,,,costa sur,,,,,,,,
+nasca,data/raw/cleveland/images/cma_134765.jpg,,Intermedio Temprano,cleveland,134765,sin periodicidad,False,,,,6.07,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/cleveland/images/cma_163724.jpg,,Horizonte Temprano,cleveland,163724,periodicidad debil,True,,,,11.05,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.3283,
+tiwanaku,data/raw/cleveland/images/cma_159839.jpg,p1m1,Horizonte Medio,cleveland,159839,ok,False,0.0,0.0,1,10.26,0.418,0.6738,Textile,177.0,,0.0,,0.0,0.418,0.6738,altiplano,0.1526,0.3944,0.2363,0.1605,1,0.5208,0.4786,pm
+chancay,data/raw/cleveland/images/cma_108034.jpg,,Intermedio Tardio,cleveland,108034,periodicidad debil,False,,,,8.82,,,Textile,,,,,0.0,,,costa central,,,,,,,0.2561,
+wari,data/raw/cleveland/images/cma_124413.jpg,,Horizonte Medio,cleveland,124413,periodicidad debil,False,,,,11.53,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.2238,
+wari,data/raw/cleveland/images/cma_126796.jpg,,Horizonte Medio,cleveland,126796,periodicidad debil,False,,,,10.08,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.4457,
+tiwanaku,data/raw/cleveland/images/cma_159633.jpg,,Horizonte Medio,cleveland,159633,sin periodicidad,False,,,,1.71,,,Textile,,,,,0.0,,,altiplano,,,,,,,,
+wari,data/raw/cleveland/images/cma_125095.jpg,,Horizonte Medio,cleveland,125095,periodicidad debil,False,,,,11.11,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.3117,
+wari,data/raw/cleveland/images/cma_125339.jpg,,Horizonte Medio,cleveland,125339,sin periodicidad,False,,,,9.86,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+pachacamac,data/raw/cleveland/images/cma_108044.jpg,,Horizonte Medio,cleveland,108044,sin periodicidad,False,,,,9.61,,,Textile,,,,,0.0,,,costa central,,,,,,,,
+paracas,data/raw/cleveland/images/cma_102924.jpg,,Horizonte Temprano,cleveland,102924,sin periodicidad,False,,,,3.92,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+chimu,data/raw/cleveland/images/cma_108038.jpg,p2mm,Intermedio Tardio,cleveland,108038,ok,False,0.0,0.0,1,3.05,0.4726,0.5346,Textile,28.0,,0.1071,,0.0,0.4726,0.5346,costa norte,0.123,0.5027,0.1427,0.1354,2,0.3296,0.4709,pmm
+chancay,data/raw/cleveland/images/cma_302272.jpg,p2mm,Intermedio Tardio,cleveland,302272,ok,False,0.0,0.0,1,4.39,0.4937,0.6569,Textile,57.0,,0.0,,0.0,0.4937,0.6569,costa central,0.135,0.4628,0.1255,0.1577,2,0.353,0.5043,pmm
+chancay,data/raw/cleveland/images/cma_108026.jpg,,Intermedio Tardio,cleveland,108026,sin periodicidad,False,,,,8.9,,,Textile,,,,,0.0,,,costa central,,,,,,,,
+paracas,data/raw/cleveland/images/cma_163781.jpg,,Horizonte Temprano,cleveland,163781,sin periodicidad,True,,,,8.23,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+tiwanaku,data/raw/cleveland/images/cma_159632.jpg,,Horizonte Medio,cleveland,159632,sin periodicidad,False,,,,3.9,,,Textile,,,,,0.0,,,altiplano,,,,,,,,
+tiwanaku,data/raw/cleveland/images/cma_159634.jpg,,Horizonte Medio,cleveland,159634,sin periodicidad,False,,,,2.46,,,Textile,,,,,0.0,,,altiplano,,,,,,,,
+chimu,data/raw/cleveland/images/cma_152819.jpg,,Intermedio Tardio,cleveland,152819,periodicidad debil,False,,,,7.13,,,Tapestry,,,,,0.0,,,costa norte,,,,,,,0.2868,
+wari,data/raw/cleveland/images/cma_114132.jpg,,Horizonte Medio,cleveland,114132,periodicidad debil,False,,,,5.01,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.2267,
+no determinada,data/raw/cleveland/images/cma_155505.jpg,,no determinado,cleveland,155505,periodicidad debil,False,,,,10.63,,,Textile,,,,,0.0,,,costa norte,,,,,,,0.297,
+chancay,data/raw/cleveland/images/cma_104242.jpg,p2mm,Intermedio Tardio,cleveland,104242,ok,False,0.0,0.0,1,3.46,0.7333,0.8311,Textile,76.0,,0.1447,,0.0,0.7333,0.8311,costa central,0.1128,0.6785,0.1048,0.0973,2,0.5536,0.7908,pmm
+chancay,data/raw/cleveland/images/cma_104250.jpg,p2mm,Intermedio Tardio,cleveland,104250,ok,False,0.0,0.0,1,8.51,0.6952,0.8606,Textile,,126.0,,0.0,0.0,0.6952,0.8606,costa central,0.2268,0.6956,0.2456,0.3186,2,0.4153,0.4831,pmm
+chancay,data/raw/cleveland/images/cma_156520.jpg,,Intermedio Tardio,cleveland,156520,sin periodicidad,False,,,,5.35,,,Textile,,,,,0.0,,,costa central,,,,,,,,
+chancay,data/raw/cleveland/images/cma_104240.jpg,p2mm,Intermedio Tardio,cleveland,104240,ok,False,0.0,0.0,1,2.47,0.6357,0.7367,Textile,18.0,,0.2222,,0.0,0.6357,0.7367,costa central,0.0838,0.6059,0.0815,0.0795,2,0.5309,0.7585,pmm
+chancay,data/raw/cleveland/images/cma_104253.jpg,p2mg,Intermedio Tardio,cleveland,104253,ok,False,0.6351,0.0,1,3.5,0.0,0.7236,Textile,70.0,,0.4,,0.0,0.6351,0.7236,costa central,0.094,0.6442,0.0809,0.1075,2,0.432,0.6172,pmg
+chancay,data/raw/cleveland/images/cma_149062.jpg,,Intermedio Tardio,cleveland,149062,sin periodicidad,False,,,,8.16,,,Textile,,,,,0.0,,,costa central,,,,,,,,
+chancay,data/raw/cleveland/images/cma_104244.jpg,,Intermedio Tardio,cleveland,104244,sin periodicidad,False,,,,3.75,,,Textile,,,,,0.0,,,costa central,,,,,,,,
+chancay,data/raw/cleveland/images/cma_104246.jpg,p2mm,Intermedio Tardio,cleveland,104246,ok,False,0.0,0.0,1,10.37,0.6939,0.8665,Textile,,170.0,,0.0,0.0,0.6939,0.8665,costa central,0.0875,0.6781,0.111,0.2072,2,0.5115,0.7308,pmm
+chancay,data/raw/cleveland/images/cma_104243.jpg,,Intermedio Tardio,cleveland,104243,sin periodicidad,False,,,,3.64,,,Textile,,,,,0.0,,,costa central,,,,,,,,
+paracas,data/raw/cleveland/images/cma_163676.jpg,,Horizonte Temprano,cleveland,163676,periodicidad debil,True,,,,4.96,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.3544,
+chancay,data/raw/cleveland/images/cma_104241.jpg,p2mm,Intermedio Tardio,cleveland,104241,ok,False,0.0,0.0,1,9.53,0.7414,0.8209,Textile,,128.0,,0.0,0.0,0.7414,0.8209,costa central,0.0669,0.7203,0.0826,0.0859,2,0.4897,0.6996,pmm
+chancay,data/raw/cleveland/images/cma_104245.jpg,p2mm,Intermedio Tardio,cleveland,104245,ok,False,0.0,0.0,1,3.56,0.8115,0.858,Textile,200.0,,0.295,,0.0,0.8115,0.858,costa central,0.0673,0.7783,0.0946,0.1035,2,0.5667,0.8096,pmm
+chancay,data/raw/cleveland/images/cma_104251.jpg,p2mm,Intermedio Tardio,cleveland,104251,ok,False,0.0,0.0,1,2.82,0.6363,0.7064,Textile,103.0,,0.3398,,0.0,0.6363,0.7064,costa central,0.105,0.6217,0.0833,0.086,2,0.415,0.5929,pmm
+chancay,data/raw/cleveland/images/cma_156519.jpg,,Intermedio Tardio,cleveland,156519,sin periodicidad,False,,,,4.83,,,Textile,,,,,0.0,,,costa central,,,,,,,,
+pachacamac,data/raw/cleveland/images/cma_108033.jpg,p1,Horizonte Medio,cleveland,108033,ok,False,0.0,0.0,2,8.82,0.3806,0.44,Textile,19.0,15.0,0.0526,0.2,0.0,0.3806,0.44,costa central,0.3677,0.3467,0.3098,0.3158,1,0.518,0.5122,p1
+chancay,data/raw/cleveland/images/cma_104234.jpg,p1m1,Intermedio Tardio,cleveland,104234,ok,False,0.4118,0.0,1,9.19,0.0,0.4836,Textile,14.0,,0.3571,,0.0,0.4118,0.4836,costa central,0.1851,0.4012,0.1663,0.189,1,0.4214,0.602,pm
+chancay,data/raw/cleveland/images/cma_104236.jpg,p2mm,Intermedio Tardio,cleveland,104236,ok,False,0.0,0.0,1,7.59,0.8718,0.8993,Textile,239.0,,0.0,,0.0,0.8718,0.8993,costa central,0.2184,0.8553,0.2083,0.2514,2,0.6342,0.7814,pmm
+chancay,data/raw/cleveland/images/cma_104249.jpg,,Intermedio Tardio,cleveland,104249,sin periodicidad,False,,,,3.76,,,Textile,,,,,0.0,,,costa central,,,,,,,,
+paracas,data/raw/cleveland/images/cma_163758.jpg,,Horizonte Temprano,cleveland,163758,periodicidad debil,True,,,,7.53,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.3656,
+chancay,data/raw/cleveland/images/cma_104247.jpg,,Intermedio Tardio,cleveland,104247,sin periodicidad,False,,,,4.03,,,Textile,,,,,0.0,,,costa central,,,,,,,,
+chimu,data/raw/cleveland/images/cma_169190.jpg,p1,Intermedio Tardio,cleveland,169190,ok,False,0.2838,0.3103,2,5.33,0.0,0.0,Textile,17.0,16.0,0.3529,0.375,0.0,0.2838,0.3103,no determinada,0.3211,0.3765,0.3631,0.3334,1,0.5272,0.5356,p1
+chancay,data/raw/cleveland/images/cma_104252.jpg,,Intermedio Tardio,cleveland,104252,sin periodicidad,False,,,,3.48,,,Textile,,,,,0.0,,,costa central,,,,,,,,
+chimu,data/raw/cleveland/images/cma_104238.jpg,,Intermedio Tardio,cleveland,104238,sin periodicidad,False,,,,5.66,,,Textile,,,,,0.0,,,costa norte,,,,,,,,
+ica,data/raw/cleveland/images/cma_126795.jpg,,Intermedio Tardio,cleveland,126795,sin periodicidad,False,,,,9.47,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+chimu,data/raw/cleveland/images/cma_166766.jpg,,Intermedio Tardio,cleveland,166766,sin periodicidad,True,,,,9.95,,,Textile,,,,,0.0,,,no determinada,,,,,,,,
+chimu,data/raw/cleveland/images/cma_104390.jpg,p2mm,Intermedio Tardio,cleveland,104390,ok,False,0.0,0.0,1,9.53,0.5735,0.656,Textile,149.0,,0.0,,1.39,0.5735,0.656,costa norte,0.1518,0.553,0.1152,0.1228,2,0.3696,0.5281,pmm
+no determinada,data/raw/cleveland/images/cma_160692.jpg,p1m1,no determinado,cleveland,160692,ok,False,0.0,0.0,1,2.74,0.3741,0.7331,Textile,47.0,,0.0,,0.0,0.3741,0.7331,costa sur,0.3661,0.379,0.2543,0.2606,1,0.5087,0.5344,pm
+no determinada,data/raw/cleveland/images/cma_160691.jpg,,no determinado,cleveland,160691,periodicidad debil,False,,,,2.99,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.411,
+nasca,data/raw/cleveland/images/cma_119693.jpg,,Intermedio Temprano,cleveland,119693,periodicidad debil,False,,,,3.15,,,Textile,,,,,-30.07,,,costa sur,,,,,,,0.2663,
+moche,data/raw/cleveland/images/cma_108042.jpg,,Intermedio Temprano,cleveland,108042,sin periodicidad,True,,,,7.39,,,Textile,,,,,0.0,,,costa central,,,,,,,,
+no determinada,data/raw/cleveland/images/cma_119653.jpg,,no determinado,cleveland,119653,periodicidad debil,False,,,,4.09,,,Textile,,,,,0.0,,,no determinada,,,,,,,0.2429,
+no determinada,data/raw/cleveland/images/cma_108043.jpg,,no determinado,cleveland,108043,sin periodicidad,False,,,,8.25,,,Textile,,,,,0.0,,,costa central,,,,,,,,
+moche,data/raw/cleveland/images/cma_171611.jpg,p11m,Intermedio Temprano,cleveland,171611,ok,True,0.0,0.0,1,5.5,0.6504,0.6745,Textile,42.0,,0.0,,-15.38,0.6504,0.6745,no determinada,0.2992,0.547,0.2695,0.2737,1,0.5481,0.6679,pm
+pachacamac,data/raw/cleveland/images/cma_292530.jpg,,Horizonte Medio,cleveland,292530,periodicidad debil,False,,,,7.6,,,Textile,,,,,0.0,,,costa central,,,,,,,0.3582,
+wari,data/raw/cleveland/images/cma_164429.jpg,p11m,Horizonte Medio,cleveland,164429,ok,False,0.0,0.0,1,6.92,0.4928,0.3668,Textile,,16.0,,0.0,0.0,0.4928,0.3668,no determinada,0.0894,0.323,0.0648,0.0857,1,0.3805,0.5435,pm
+no determinada,data/raw/cleveland/images/cma_135408.jpg,p1m1,no determinado,cleveland,135408,ok,False,0.0,0.0,1,11.29,0.3353,0.5235,Textile,43.0,,0.1395,,0.0,0.3353,0.5235,no determinada,0.1435,0.3373,0.1767,0.1074,1,0.3737,0.5339,pm
+wari,data/raw/cleveland/images/cma_164428.jpg,p2mm,Horizonte Medio,cleveland,164428,ok,False,0.0,0.0,1,9.64,0.4741,0.4325,Textile,,14.0,,0.0,0.0,0.4741,0.4325,no determinada,0.0915,0.4004,0.1076,0.1917,2,0.3579,0.5112,pmm
+no determinada,data/raw/cleveland/images/cma_156248.jpg,,no determinado,cleveland,156248,periodicidad debil,False,,,,7.82,,,Textile,,,,,0.63,,,no determinada,,,,,,,0.3465,
+wari,data/raw/cleveland/images/cma_164430.jpg,p2mm,Horizonte Medio,cleveland,164430,ok,False,0.0,0.0,1,6.98,0.4773,0.3959,Textile,,17.0,,0.0,0.0,0.4773,0.3959,no determinada,0.0658,0.3812,0.0842,0.0888,2,0.3306,0.4724,pmm
+no determinada,data/raw/cleveland/images/cma_156260.jpg,p11m,no determinado,cleveland,156260,ok,False,0.0,0.0,1,6.3,0.6745,0.4983,Textile,,93.0,,0.0,0.0,0.6745,0.4983,no determinada,0.3894,0.4736,0.4353,0.4956,1,0.5751,0.5194,pm
+no determinada,data/raw/cleveland/images/cma_119654.jpg,,no determinado,cleveland,119654,sin periodicidad,True,,,,5.11,,,Textile,,,,,0.0,,,costa central,,,,,,,,
+sican,data/raw/cleveland/images/cma_132125.jpg,,Intermedio Tardio,cleveland,132125,periodicidad debil,False,,,,1.21,,,Textile,,,,,0.0,,,costa norte,,,,,,,0.4396,
+no determinada,data/raw/cleveland/images/cma_125228.jpg,,no determinado,cleveland,125228,sin periodicidad,False,,,,7.93,,,Textile,,,,,0.0,,,altiplano,,,,,,,,
+no determinada,data/raw/cleveland/images/cma_125227.jpg,p2mm,no determinado,cleveland,125227,ok,False,0.0,0.0,1,8.95,0.7058,0.7521,Textile,43.0,,0.0698,,0.0,0.7058,0.7521,altiplano,0.4683,0.7036,0.4764,0.4546,2,0.6466,0.502,pmm
+no determinada,data/raw/cleveland/images/cma_125225.jpg,,no determinado,cleveland,125225,periodicidad debil,False,,,,10.82,,,Textile,,,,,0.0,,,altiplano,,,,,,,0.2628,
+chancay,data/raw/cleveland/images/cma_104248.jpg,,Intermedio Tardio,cleveland,104248,sin periodicidad,False,,,,4.32,,,Textile,,,,,0.0,,,costa central,,,,,,,,
+inca,data/raw/cleveland/images/cma_128454.jpg,,Horizonte Tardio,cleveland,128454,periodicidad debil,False,,,,9.39,,,Textile,,,,,0.0,,,costa sur,,,,,,,0.3373,
+chavin,data/raw/cleveland/images/cma_294034.jpg,,Horizonte Temprano,cleveland,294034,sin periodicidad,True,,,,10.68,,,Textile,,,,,0.0,,,costa sur,,,,,,,,
+paracas,data/raw/smithsonian/images/si_ld1-1643399887910-1643399906208-1.jpg,,Horizonte Temprano,smithsonian/CHNDM,ld1-1643399887910-1643399906208-1,sin periodicidad,False,,,,9.0,,,Fragment of Paracas mantle | Embroidery (visual works),,,,,0.0,,,costa sur,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399924487-1.jpg,p1,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399924487-1,ok,False,0.0,0.4178,2,15.44,0.4721,0.0,Textiles,3.0,13.0,0.3333,0.3846,0.0,0.4721,0.4178,no determinada,0.3965,0.3695,0.389,0.4064,1,0.5136,0.5072,p1
+chancay,data/raw/smithsonian/images/si_ld1-1643399887910-1643399941697-0.jpg,,Intermedio Tardio,smithsonian/CHNDM,ld1-1643399887910-1643399941697-0,periodicidad debil,False,,,,4.67,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.1585,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399916293-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399916293-1,periodicidad debil,False,,,,7.61,,,Tunic fragment | Textiles,,,,,0.0,,,no determinada,,,,,,,0.4166,
+nasca,data/raw/smithsonian/images/si_ld1-1643399887910-1643399919871-0.jpg,,Intermedio Temprano,smithsonian/CHNDM,ld1-1643399887910-1643399919871-0,periodicidad debil,False,,,,1.72,,,Costume accessories | Costume,,,,,0.0,,,no determinada,,,,,,,0.4121,
+nasca,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918971-0.jpg,p2mm,Intermedio Temprano,smithsonian/CHNDM,ld1-1643399887910-1643399918971-0,ok,False,0.0,0.0,1,3.78,0.6794,0.6323,Textiles,,154.0,,0.0,0.0,0.6794,0.6323,no determinada,0.0967,0.6547,0.1072,0.0868,2,0.3749,0.5355,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918314-1.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918314-1,ok,False,0.0,0.0,1,9.0,0.6029,0.532,Textiles,,26.0,,0.0385,0.0,0.6029,0.532,no determinada,0.0589,0.5215,0.0395,0.0701,2,0.407,0.5814,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399937893-0.jpg,p2,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399937893-0,ok,False,0.0,0.9044,1,9.0,0.9178,0.0,Textiles,,58.0,,0.3966,0.0,0.9178,0.9044,no determinada,0.0344,0.9062,0.0313,0.0136,2,0.6118,0.8739,pmg
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399935577-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399935577-0,sin periodicidad,False,,,,2.4,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399927133-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399927133-0,periodicidad debil,False,,,,7.06,,,Mantle fragment | Textiles,,,,,0.0,,,altiplano,,,,,,,0.2561,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399943359-0.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399943359-0,ok,False,0.0,0.0,1,10.56,0.6226,0.5989,Panels | Textiles,,31.0,,0.2258,0.0,0.6226,0.5989,no determinada,0.1884,0.5437,0.183,0.2451,2,0.3723,0.5319,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399942096-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399942096-1,periodicidad debil,False,,,,15.03,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.0831,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399919758-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399919758-0,sin periodicidad,False,,,,2.15,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399906227-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399906227-0,periodicidad debil,False,,,,8.0,,,Textile fragment | Textiles,,,,,0.0,,,no determinada,,,,,,,0.4093,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399982955-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399982955-1,periodicidad debil,False,,,,3.38,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3154,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399941696-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399941696-1,periodicidad debil,False,,,,7.93,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3555,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399919860-2.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399919860-2,periodicidad debil,False,,,,4.01,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3842,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399930090-0.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399930090-0,ok,False,0.0,0.0,1,1.19,0.7228,0.7327,Textiles,32.0,,0.125,,0.0,0.7228,0.7327,no determinada,0.095,0.6871,0.1112,0.101,2,0.4979,0.7114,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399905032-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399905032-0,periodicidad debil,False,,,,8.72,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.4095,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399919873-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399919873-1,periodicidad debil,False,,,,3.72,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3676,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399941933-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399941933-1,periodicidad debil,False,,,,4.32,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.228,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399941680-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399941680-1,sin periodicidad,False,,,,8.96,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399905031-2.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399905031-2,ok,False,0.0,0.0,1,5.93,0.778,0.7134,Textiles,17.0,,0.0,,0.0,0.778,0.7134,no determinada,0.2338,0.7359,0.2253,0.1318,2,0.3654,0.5071,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918635-1.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918635-1,ok,False,0.0,0.0,1,8.12,0.7095,0.7422,Needlework (visual works) | Netted textile | Textiles,26.0,,0.1538,,0.0,0.7095,0.7422,no determinada,0.187,0.7172,0.1372,0.166,2,0.5094,0.6746,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399941695-0.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399941695-0,ok,False,0.0,0.0,1,7.74,0.4982,0.5641,Textiles,72.0,,0.0,,0.0,0.4982,0.5641,no determinada,0.0951,0.4741,0.0814,0.1174,2,0.3736,0.5337,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399942766-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399942766-1,sin periodicidad,False,,,,7.91,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399955044-1.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399955044-1,ok,False,0.0,0.0,1,1.98,0.5842,0.6302,Textiles,,14.0,,0.0714,0.0,0.5842,0.6302,no determinada,0.143,0.5731,0.1407,0.1642,2,0.4231,0.6044,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399915812-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399915812-1,sin periodicidad,False,,,,11.94,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399890720-1.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399890720-1,ok,False,0.0,0.0,1,4.17,0.4991,0.5907,Textiles,15.0,,0.0,,0.0,0.4991,0.5907,no determinada,0.1924,0.4515,0.2046,0.2318,2,0.3829,0.547,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918707-2.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918707-2,sin periodicidad,False,,,,9.0,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399924630-2.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399924630-2,periodicidad debil,False,,,,4.61,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3872,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399983058-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399983058-1,periodicidad debil,False,,,,1.93,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3222,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399971941-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399971941-0,sin periodicidad,False,,,,6.93,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399955044-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399955044-0,periodicidad debil,False,,,,8.52,,,Samplers (embroidery) | Textiles,,,,,0.0,,,no determinada,,,,,,,0.4464,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918970-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918970-1,sin periodicidad,False,,,,1.27,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918704-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918704-0,periodicidad debil,False,,,,3.38,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3154,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399937894-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399937894-0,sin periodicidad,False,,,,3.89,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399890820-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399890820-0,sin periodicidad,False,,,,0.43,,,Fragment of a border | Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918970-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918970-0,sin periodicidad,False,,,,13.84,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399936244-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399936244-0,periodicidad debil,False,,,,15.15,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3233,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399929184-1.jpg,p2mg,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399929184-1,ok,False,0.7738,0.0,1,8.72,0.0,0.7182,Textiles,20.0,,0.4,,0.0,0.7738,0.7182,no determinada,0.0928,0.701,0.0871,0.0984,2,0.5189,0.6827,pmg
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399929184-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399929184-0,sin periodicidad,False,,,,10.06,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399915813-2.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399915813-2,sin periodicidad,False,,,,12.73,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+ica,data/raw/smithsonian/images/si_ld1-1643399887910-1643399942023-0.jpg,,Intermedio Tardio,smithsonian/CHNDM,ld1-1643399887910-1643399942023-0,periodicidad debil,False,,,,4.32,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.2374,
+ica,data/raw/smithsonian/images/si_ld1-1643399887910-1643399942022-0.jpg,p2mm,Intermedio Tardio,smithsonian/CHNDM,ld1-1643399887910-1643399942022-0,ok,False,0.0,0.0,1,9.0,0.935,0.9265,Textiles,,19.0,,0.3158,0.0,0.935,0.9265,no determinada,0.095,0.9206,0.0907,0.0655,2,0.6564,0.9377,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399931980-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399931980-0,periodicidad debil,False,,,,15.87,,,Textiles,,,,,-25.2,,,no determinada,,,,,,,0.1603,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399935580-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399935580-0,sin periodicidad,False,,,,6.38,,,Bags (containers) | Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399915714-1.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399915714-1,ok,False,0.0,0.0,1,9.0,0.8483,0.8791,Band fragment | Textiles,169.0,,0.0296,,0.0,0.8483,0.8791,no determinada,0.1238,0.8734,0.1248,0.1046,2,0.458,0.6543,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918313-2.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918313-2,periodicidad debil,False,,,,9.0,,,Carrying cloth | Textiles,,,,,0.0,,,no determinada,,,,,,,0.305,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399919872-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399919872-1,sin periodicidad,False,,,,6.07,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399921717-0.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399921717-0,ok,False,0.0,0.0,1,2.01,0.4819,0.641,Textiles,80.0,,0.125,,0.0,0.4819,0.641,no determinada,0.2035,0.4403,0.2147,0.1948,2,0.4,0.5314,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399935575-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399935575-0,sin periodicidad,False,,,,7.68,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399942727-2.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399942727-2,ok,False,0.0,0.0,1,1.76,0.6765,0.7894,Textiles,95.0,,0.0211,,0.0,0.6765,0.7894,no determinada,0.1266,0.675,0.1067,0.1044,2,0.4332,0.6188,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399935584-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399935584-0,sin periodicidad,False,,,,12.13,,,Tunics | Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918635-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918635-0,periodicidad debil,False,,,,0.74,,,Needlework (visual works) | Slings (projectile weapons) | Textiles,,,,,0.0,,,no determinada,,,,,,,0.247,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918806-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918806-0,sin periodicidad,False,,,,9.0,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399924629-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399924629-1,sin periodicidad,False,,,,5.27,,,Bags (containers) | Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399935502-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399935502-0,sin periodicidad,False,,,,7.54,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399929183-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399929183-1,sin periodicidad,False,,,,4.81,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918014-0.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918014-0,ok,False,0.0,0.0,1,0.61,0.9081,0.8414,Textiles,20.0,,0.35,,0.0,0.9081,0.8414,no determinada,0.1267,0.841,0.1236,0.1137,2,0.5594,0.7991,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399906228-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399906228-0,sin periodicidad,False,,,,14.78,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399906229-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399906229-0,sin periodicidad,False,,,,8.51,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399915814-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399915814-0,sin periodicidad,False,,,,7.33,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399915812-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399915812-0,sin periodicidad,False,,,,9.0,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399930130-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399930130-1,periodicidad debil,False,,,,4.1,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3806,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399924629-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399924629-0,periodicidad debil,False,,,,5.43,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3861,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399919757-1.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399919757-1,ok,False,0.0,0.0,1,3.51,0.7532,0.7519,Textiles,,23.0,,0.1739,0.0,0.7532,0.7519,no determinada,0.1134,0.7265,0.1092,0.0973,2,0.508,0.7258,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399929139-2.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399929139-2,sin periodicidad,False,,,,4.36,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399906228-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399906228-1,periodicidad debil,False,,,,14.42,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3191,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399919872-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399919872-0,periodicidad debil,False,,,,7.39,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.358,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399941696-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399941696-0,periodicidad debil,False,,,,3.27,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.159,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399924626-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399924626-0,periodicidad debil,False,,,,12.95,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.2098,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399941213-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399941213-0,periodicidad debil,False,,,,8.18,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3073,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399919874-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399919874-0,periodicidad debil,False,,,,3.91,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.4133,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399941695-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399941695-1,sin periodicidad,False,,,,3.04,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399916348-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399916348-1,sin periodicidad,False,,,,14.64,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399906226-2.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399906226-2,sin periodicidad,False,,,,8.14,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399923775-0.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399923775-0,ok,False,0.0,0.0,1,0.38,0.7153,0.6921,Textiles,,73.0,,0.0411,0.0,0.7153,0.6921,no determinada,0.1101,0.6514,0.0932,0.1121,2,0.3953,0.5647,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399924628-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399924628-0,sin periodicidad,False,,,,5.18,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+tiwanaku,data/raw/smithsonian/images/si_ld1-1643399887910-1643399934431-1.jpg,,Horizonte Medio,smithsonian/CHNDM,ld1-1643399887910-1643399934431-1,sin periodicidad,False,,,,9.57,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399919742-0.jpg,p2,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399919742-0,ok,False,0.0,0.0,1,8.63,0.3493,0.4669,Textiles,17.0,,0.0,,0.0,0.3493,0.4669,no determinada,0.1522,0.3783,0.153,0.1662,2,0.3523,0.5033,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399929139-1.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399929139-1,ok,False,0.0,0.0,1,3.19,0.5002,0.5393,Textiles,14.0,,0.0,,0.0,0.5002,0.5393,no determinada,0.0871,0.3993,0.0862,0.1592,2,0.3807,0.5439,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399975771-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399975771-0,sin periodicidad,False,,,,5.31,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399921715-0.jpg,p11m,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399921715-0,ok,False,0.0,0.0,1,4.55,0.6019,0.3287,Turban band | Textiles,,32.0,,0.3125,0.0,0.6019,0.3287,no determinada,0.1185,0.324,0.1338,0.0912,1,0.5194,0.7421,pm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399917878-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399917878-0,sin periodicidad,False,,,,10.04,,,Textiles,,,,,0.0,,,costa central,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918705-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918705-1,periodicidad debil,False,,,,1.22,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.4313,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918704-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918704-1,periodicidad debil,False,,,,15.44,,,Mantles | Textiles,,,,,0.0,,,no determinada,,,,,,,0.3418,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918703-1.jpg,p1m1,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918703-1,ok,False,0.0,0.0,1,5.48,0.4316,0.7185,Textiles,130.0,,0.3231,,0.0,0.4316,0.7185,no determinada,0.307,0.3496,0.2608,0.2547,1,0.559,0.5185,pm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399890720-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399890720-0,periodicidad debil,False,,,,6.87,,,Mantles | Textiles,,,,,0.0,,,no determinada,,,,,,,0.3794,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918314-0.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918314-0,ok,False,0.0,0.0,1,9.0,0.7034,0.7618,Textiles,,191.0,,0.0,0.0,0.7034,0.7618,no determinada,0.1895,0.6977,0.1894,0.177,2,0.4868,0.5107,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399895336-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399895336-0,sin periodicidad,False,,,,2.31,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399890508-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399890508-0,periodicidad debil,False,,,,13.11,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.4458,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399924628-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399924628-1,sin periodicidad,False,,,,8.13,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399932529-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399932529-0,periodicidad debil,False,,,,13.58,,,Textiles,,,,,35.13,,,no determinada,,,,,,,0.3322,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918703-0.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918703-0,ok,False,0.0,0.0,1,0.51,0.67,0.7378,Textiles,57.0,,0.2807,,0.0,0.67,0.7378,no determinada,0.2261,0.6669,0.2509,0.2503,2,0.4432,0.6331,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918971-1.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918971-1,ok,False,0.0,0.0,1,5.33,0.7008,0.708,Textiles,176.0,,0.0,,-0.33,0.7008,0.708,no determinada,0.1754,0.7081,0.226,0.1473,2,0.5608,0.5523,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918970-2.jpg,p2,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918970-2,ok,False,0.0,0.5025,1,7.41,0.5963,0.0,Carrying cloth | Textiles,,31.0,,0.3548,0.0,0.5963,0.5025,no determinada,0.2217,0.5832,0.2365,0.3522,2,0.3647,0.521,pmg
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399935577-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399935577-1,sin periodicidad,False,,,,2.82,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399916348-0.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399916348-0,ok,False,0.0,0.0,1,5.91,0.6923,0.6694,Textiles,,112.0,,0.0,0.0,0.6923,0.6694,no determinada,0.1257,0.6836,0.1481,0.1151,2,0.3595,0.4942,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399916347-2.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399916347-2,sin periodicidad,False,,,,9.0,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399895335-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399895335-0,sin periodicidad,False,,,,0.31,,,Borders (ornament areas) | Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399932527-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399932527-0,sin periodicidad,False,,,,4.8,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399923118-0.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399923118-0,ok,False,0.0,0.0,1,8.33,0.6815,0.6883,Textiles,,165.0,,0.0,0.0,0.6815,0.6883,no determinada,0.0984,0.595,0.0828,0.0899,2,0.3209,0.4584,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399935578-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399935578-0,sin periodicidad,False,,,,3.6,,,Fragment of a bag | Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399935583-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399935583-0,sin periodicidad,False,,,,7.49,,,Coca bag | Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399935581-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399935581-1,sin periodicidad,False,,,,7.3,,,Coca bag | Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399918705-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399918705-0,periodicidad debil,False,,,,4.35,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3513,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399935582-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399935582-1,sin periodicidad,False,,,,5.81,,,Coca bag | Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399890465-1.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399890465-1,ok,False,0.0,0.0,1,6.87,0.6637,0.5417,Textiles,,31.0,,0.2258,0.0,0.6637,0.5417,no determinada,0.2542,0.5322,0.2399,0.186,2,0.3949,0.5468,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399935581-0.jpg,p2,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399935581-0,ok,False,0.0,0.8135,1,7.64,0.6906,0.0,Coca bag | Textiles,,21.0,,0.4762,0.0,0.6906,0.8135,no determinada,0.4281,0.7046,0.4328,0.4808,2,0.6035,0.6096,pmg
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399925669-0.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399925669-0,ok,False,0.0,0.0,1,15.48,0.5288,0.464,Ponchos | Textiles,,45.0,,0.0222,0.0,0.5288,0.464,no determinada,0.0895,0.4985,0.0927,0.1081,2,0.3364,0.4805,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399929168-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399929168-0,sin periodicidad,False,,,,8.52,,,Bag face for a chuspa | Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399915813-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399915813-0,sin periodicidad,False,,,,9.0,,,Needlework (visual works) | Bags (containers) | Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399942726-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399942726-0,sin periodicidad,False,,,,13.74,,,Coca bag | Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399935582-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399935582-0,sin periodicidad,False,,,,8.23,,,Coca bag | Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399935576-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399935576-0,sin periodicidad,False,,,,3.95,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399932528-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399932528-0,periodicidad debil,False,,,,1.07,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.4121,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399890824-1.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399890824-1,ok,False,0.0,0.0,1,8.97,0.6549,0.751,Textiles,,23.0,,0.0,0.0,0.6549,0.751,no determinada,0.2843,0.625,0.2624,0.2319,2,0.46,0.5808,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399921714-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399921714-0,periodicidad debil,False,,,,7.46,,,Textiles,,,,,0.0,,,no determinada,,,,,,,0.3658,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399921716-0.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399921716-0,ok,False,0.0,0.0,1,7.56,0.8672,0.7455,Textiles,,25.0,,0.04,0.0,0.8672,0.7455,no determinada,0.0737,0.743,0.0511,0.049,2,0.6297,0.8995,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399932528-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399932528-1,sin periodicidad,False,,,,5.05,,,Textiles,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399942756-2.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399942756-2,sin periodicidad,False,,,,11.67,,,Embroidery (visual works),,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399924630-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399924630-0,periodicidad debil,False,,,,4.32,,,Embroidery (visual works),,,,,0.0,,,no determinada,,,,,,,0.3869,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399935579-0.jpg,p2mg,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399935579-0,ok,False,0.7614,0.0,1,1.22,0.0,0.8113,Needlework (visual works) | Borders (ornament areas) | Textiles,60.0,,0.4667,,0.0,0.7614,0.8113,no determinada,0.0707,0.7698,0.089,0.0948,2,0.5481,0.783,pmg
+tiwanaku,data/raw/smithsonian/images/si_ld1-1643399887910-1643399941694-1.jpg,p2mm,Horizonte Medio,smithsonian/CHNDM,ld1-1643399887910-1643399941694-1,ok,False,0.0,0.0,1,2.61,0.6668,0.6792,Caps (headgear) | Textiles,95.0,,0.0737,,0.0,0.6668,0.6792,no determinada,0.1631,0.652,0.1499,0.141,2,0.3941,0.5523,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399942771-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399942771-0,periodicidad debil,False,,,,5.21,,,Embroidery (visual works),,,,,0.0,,,no determinada,,,,,,,0.4466,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399912583-0.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399912583-0,ok,False,0.0,0.0,1,5.42,0.7206,0.7081,Embroidery (visual works),84.0,,0.0,,0.0,0.7206,0.7081,no determinada,0.1102,0.7775,0.1204,0.1051,2,0.3659,0.5227,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399915811-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399915811-1,sin periodicidad,False,,,,0.56,,,Embroidery (visual works),,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399942727-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399942727-0,periodicidad debil,False,,,,1.17,,,Embroidery (visual works),,,,,0.0,,,no determinada,,,,,,,0.3212,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399942633-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399942633-0,sin periodicidad,False,,,,6.89,,,Embroidery (visual works),,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399942586-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399942586-0,sin periodicidad,False,,,,7.72,,,Embroidery (visual works),,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399921716-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399921716-1,sin periodicidad,False,,,,1.76,,,Trimmings | Tassel,,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399942528-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399942528-0,sin periodicidad,False,,,,15.62,,,Embroidery (visual works),,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399942761-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399942761-1,periodicidad debil,False,,,,14.57,,,Embroidery (visual works),,,,,0.0,,,no determinada,,,,,,,0.2063,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399915811-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399915811-0,periodicidad debil,False,,,,8.13,,,Embroidery (visual works),,,,,0.0,,,no determinada,,,,,,,0.4104,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399942679-1.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399942679-1,sin periodicidad,False,,,,6.95,,,Embroidery (visual works),,,,,0.0,,,no determinada,,,,,,,,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399916347-1.jpg,p2mg,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399916347-1,ok,False,0.5435,0.0,1,4.52,0.0,0.4431,Embroidery (visual works),20.0,,0.45,,0.0,0.5435,0.4431,no determinada,0.2412,0.444,0.2108,0.2128,2,0.3335,0.4684,pmg
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399906209-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399906209-0,sin periodicidad,False,,,,6.01,,,Embroidery (visual works),,,,,0.0,,,no determinada,,,,,,,,
+ica,data/raw/smithsonian/images/si_ld1-1643399887910-1643399942022-1.jpg,p2mm,Intermedio Tardio,smithsonian/CHNDM,ld1-1643399887910-1643399942022-1,ok,False,0.0,0.0,1,6.29,0.7617,0.9041,Embroidery (visual works),158.0,,0.0,,0.0,0.7617,0.9041,no determinada,0.1675,0.7463,0.2265,0.1981,2,0.5616,0.7793,pmm
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399921910-0.jpg,,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399921910-0,periodicidad debil,False,,,,8.55,,,Mantle fragment | Textiles,,,,,0.0,,,no determinada,,,,,,,0.4306,
+no determinada,data/raw/smithsonian/images/si_ld1-1643399887910-1643399890719-1.jpg,p2mm,no determinado,smithsonian/CHNDM,ld1-1643399887910-1643399890719-1,ok,False,0.0,0.0,1,16.0,0.5616,0.654,Costume accessories | Costume | Mantles,13.0,,0.0,,0.0,0.5616,0.654,no determinada,0.1733,0.6255,0.2031,0.1442,2,0.4421,0.6316,pmm

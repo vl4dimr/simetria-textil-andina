@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: >-
+  Simetría computacional en iconografía textil andina: código y datos derivados
+message: >-
+  Si utiliza este material, cite el artículo asociado y este depósito.
+type: software
+authors:
+  - given-names: Duany Nilka
+    family-names: Mamani Calisaya
+    orcid: 'https://orcid.org/0000-0003-0457-5680'
+    affiliation: Universidad Nacional del Altiplano, Puno, Perú
+  - given-names: Vicente
+    family-names: Alanoca Arocutipa
+    orcid: 'https://orcid.org/0000-0001-9111-0704'
+    affiliation: Universidad Nacional del Altiplano, Puno, Perú
+  - given-names: Milton Vladimir
+    family-names: Mamani-Calisaya
+    orcid: 'https://orcid.org/0000-0002-0676-0989'
+    affiliation: Universidad Nacional del Altiplano, Puno, Perú
+abstract: >-
+  Código y datos derivados del análisis de grupos de simetría sobre un corpus de
+  866 textiles andinos reunido desde tres colecciones museísticas de acceso
+  abierto (The Metropolitan Museum of Art, Cooper Hewitt y Cleveland Museum of
+  Art), todas bajo CC0. Incluye los recolectores por fuente, el detector de
+  grupos de friso con su validación sintética, el análisis estadístico por
+  prueba de permutación y los guiones de figuras.
+keywords:
+  - iconografía andina
+  - grupos de friso
+  - simetría
+  - textiles precolombinos
+  - patrimonio digital
+  - visión por computador
+license: MIT
+version: 1.0.0

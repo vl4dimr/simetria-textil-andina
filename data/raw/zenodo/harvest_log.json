@@ -1,0 +1,23 @@
+{
+  "source": "Zenodo REST API",
+  "queries": [
+    "title:(textile AND (andean OR peru OR peruvian OR bolivia OR precolumbian OR \"pre-columbian\"))",
+    "title:(paracas OR nasca OR nazca OR wari OR huari OR tiwanaku OR tiahuanaco)",
+    "title:(chancay OR chimu OR \"chimú\" OR moche OR lambayeque OR sican)",
+    "title:(quipu OR khipu)",
+    "keywords:(\"andean textiles\" OR \"peruvian textiles\" OR \"pre-columbian textiles\")",
+    "title:(iconography AND (andean OR peru OR inca OR inka))",
+    "title:((weaving OR loom OR tapestry) AND (andes OR andean OR peru OR bolivia))",
+    "title:(inca OR inka) AND title:(art OR design OR pattern OR iconography OR textile)"
+  ],
+  "records_retrieved": 350,
+  "relevant": 138,
+  "by_type": {
+    "dataset": 34,
+    "image": 22,
+    "publication": 78,
+    "software": 4
+  },
+  "open_access": 136,
+  "with_files": 136
+}

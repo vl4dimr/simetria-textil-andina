@@ -1,0 +1,33 @@
+{
+  "title": "Simetría computacional en iconografía textil andina: código y datos derivados",
+  "description": "<p>Código y datos derivados del análisis de grupos de simetría sobre un corpus de 866 textiles andinos reunido desde tres colecciones museísticas de acceso abierto (The Metropolitan Museum of Art, Cooper Hewitt y Cleveland Museum of Art), todas bajo licencia CC0.</p><p>Incluye los recolectores por fuente, el detector de grupos de friso con su validación sintética sobre 84 patrones de grupo conocido, el análisis estadístico mediante prueba de permutación y los guiones que generan las figuras del artículo.</p><p>Las imágenes del corpus (2,1 GB) se depositan como registro de datos independiente por su tamaño. Este registro contiene el código y los datos derivados: corpus unificado con procedencia normalizada, asignaciones de grupo de simetría con sus descriptores, resultados de validación y contrastes estadísticos.</p>",
+  "upload_type": "software",
+  "license": "MIT",
+  "language": "spa",
+  "creators": [
+    {
+      "name": "Mamani Calisaya, Duany Nilka",
+      "orcid": "0000-0003-0457-5680",
+      "affiliation": "Universidad Nacional del Altiplano, Puno, Perú"
+    },
+    {
+      "name": "Alanoca Arocutipa, Vicente",
+      "orcid": "0000-0001-9111-0704",
+      "affiliation": "Universidad Nacional del Altiplano, Puno, Perú"
+    },
+    {
+      "name": "Mamani-Calisaya, Milton Vladimir",
+      "orcid": "0000-0002-0676-0989",
+      "affiliation": "Universidad Nacional del Altiplano, Puno, Perú"
+    }
+  ],
+  "keywords": [
+    "iconografía andina",
+    "grupos de friso",
+    "simetría cristalográfica plana",
+    "textiles precolombinos",
+    "patrimonio digital",
+    "visión por computador",
+    "ciencia abierta"
+  ]
+}

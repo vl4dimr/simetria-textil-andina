@@ -1,0 +1,385 @@
+{
+  "todas": {
+    "n_ok": 242,
+    "cultura_vs_friso": {
+      "chi2": 38.64,
+      "p_permutation": 0.0004,
+      "n_permutations": 10000,
+      "cramers_v": 0.3571,
+      "levels": [
+        "chimu",
+        "ica",
+        "nasca",
+        "wari"
+      ],
+      "groups": [
+        "p1",
+        "p11m",
+        "p1m1",
+        "p2",
+        "p2mg",
+        "p2mm"
+      ],
+      "table": [
+        [
+          5,
+          4,
+          4,
+          1,
+          1,
+          11
+        ],
+        [
+          2,
+          1,
+          5,
+          0,
+          8,
+          7
+        ],
+        [
+          1,
+          0,
+          2,
+          0,
+          3,
+          17
+        ],
+        [
+          0,
+          2,
+          2,
+          2,
+          15,
+          8
+        ]
+      ],
+      "n": 101,
+      "classes_used": [
+        "chimu",
+        "ica",
+        "nasca",
+        "wari"
+      ],
+      "classes_dropped": [
+        "chancay",
+        "chuquibamba",
+        "colonial",
+        "inca",
+        "moche",
+        "no determinada",
+        "pachacamac",
+        "paracas",
+        "recuay",
+        "sican",
+        "tiwanaku"
+      ]
+    },
+    "horizonte_vs_friso": {
+      "chi2": 29.168,
+      "p_permutation": 0.0015,
+      "n_permutations": 10000,
+      "cramers_v": 0.3311,
+      "levels": [
+        "Horizonte Medio",
+        "Intermedio Tardio",
+        "Intermedio Temprano"
+      ],
+      "groups": [
+        "p1",
+        "p11m",
+        "p1m1",
+        "p2",
+        "p2mg",
+        "p2mm"
+      ],
+      "table": [
+        [
+          1,
+          2,
+          3,
+          2,
+          15,
+          9
+        ],
+        [
+          11,
+          6,
+          11,
+          1,
+          11,
+          33
+        ],
+        [
+          1,
+          1,
+          2,
+          0,
+          3,
+          21
+        ]
+      ],
+      "n": 133,
+      "classes_used": [
+        "Horizonte Medio",
+        "Intermedio Tardio",
+        "Intermedio Temprano"
+      ],
+      "classes_dropped": [
+        "Colonial/Republicano",
+        "Horizonte Tardio",
+        "Horizonte Temprano",
+        "no determinado"
+      ]
+    },
+    "cultura_vs_orden_rotacion": {
+      "chi2": 15.977,
+      "p_permutation": 0.0035,
+      "n_permutations": 10000,
+      "cramers_v": 0.2812,
+      "levels": [
+        "chimu",
+        "ica",
+        "nasca",
+        "wari"
+      ],
+      "groups": [
+        "1",
+        "2",
+        "4"
+      ],
+      "table": [
+        [
+          13,
+          13,
+          0
+        ],
+        [
+          8,
+          14,
+          1
+        ],
+        [
+          3,
+          20,
+          0
+        ],
+        [
+          4,
+          25,
+          0
+        ]
+      ],
+      "n": 101,
+      "classes_used": [
+        "chimu",
+        "ica",
+        "nasca",
+        "wari"
+      ],
+      "classes_dropped": [
+        "chancay",
+        "chuquibamba",
+        "colonial",
+        "inca",
+        "moche",
+        "no determinada",
+        "pachacamac",
+        "paracas",
+        "recuay",
+        "sican",
+        "tiwanaku"
+      ]
+    }
+  },
+  "sin atribucion dudosa": {
+    "n_ok": 205,
+    "cultura_vs_friso": {
+      "chi2": 38.037,
+      "p_permutation": 0.0007,
+      "n_permutations": 10000,
+      "cramers_v": 0.3634,
+      "levels": [
+        "chimu",
+        "ica",
+        "nasca",
+        "wari"
+      ],
+      "groups": [
+        "p1",
+        "p11m",
+        "p1m1",
+        "p2",
+        "p2mg",
+        "p2mm"
+      ],
+      "table": [
+        [
+          5,
+          3,
+          3,
+          1,
+          1,
+          11
+        ],
+        [
+          2,
+          1,
+          5,
+          0,
+          8,
+          7
+        ],
+        [
+          1,
+          0,
+          1,
+          0,
+          3,
+          16
+        ],
+        [
+          0,
+          2,
+          2,
+          2,
+          15,
+          7
+        ]
+      ],
+      "n": 96,
+      "classes_used": [
+        "chimu",
+        "ica",
+        "nasca",
+        "wari"
+      ],
+      "classes_dropped": [
+        "chancay",
+        "chuquibamba",
+        "inca",
+        "moche",
+        "no determinada",
+        "pachacamac",
+        "paracas",
+        "recuay",
+        "sican",
+        "tiwanaku"
+      ]
+    },
+    "horizonte_vs_friso": {
+      "chi2": 31.284,
+      "p_permutation": 0.0003,
+      "n_permutations": 10000,
+      "cramers_v": 0.351,
+      "levels": [
+        "Horizonte Medio",
+        "Intermedio Tardio",
+        "Intermedio Temprano"
+      ],
+      "groups": [
+        "p1",
+        "p11m",
+        "p1m1",
+        "p2",
+        "p2mg",
+        "p2mm"
+      ],
+      "table": [
+        [
+          1,
+          2,
+          3,
+          2,
+          15,
+          8
+        ],
+        [
+          11,
+          5,
+          10,
+          1,
+          11,
+          33
+        ],
+        [
+          1,
+          0,
+          1,
+          0,
+          3,
+          20
+        ]
+      ],
+      "n": 127,
+      "classes_used": [
+        "Horizonte Medio",
+        "Intermedio Tardio",
+        "Intermedio Temprano"
+      ],
+      "classes_dropped": [
+        "Horizonte Tardio",
+        "Horizonte Temprano",
+        "no determinado"
+      ]
+    },
+    "cultura_vs_orden_rotacion": {
+      "chi2": 14.277,
+      "p_permutation": 0.0096,
+      "n_permutations": 10000,
+      "cramers_v": 0.2727,
+      "levels": [
+        "chimu",
+        "ica",
+        "nasca",
+        "wari"
+      ],
+      "groups": [
+        "1",
+        "2",
+        "4"
+      ],
+      "table": [
+        [
+          11,
+          13,
+          0
+        ],
+        [
+          8,
+          14,
+          1
+        ],
+        [
+          2,
+          19,
+          0
+        ],
+        [
+          4,
+          24,
+          0
+        ]
+      ],
+      "n": 96,
+      "classes_used": [
+        "chimu",
+        "ica",
+        "nasca",
+        "wari"
+      ],
+      "classes_dropped": [
+        "chancay",
+        "chuquibamba",
+        "inca",
+        "moche",
+        "no determinada",
+        "pachacamac",
+        "paracas",
+        "recuay",
+        "sican",
+        "tiwanaku"
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+# Imagenes del corpus: 2,1 GB, por encima de lo razonable para GitHub.
+# Son CC0 y se depositan aparte en Zenodo como registro de datos.
+data/raw/*/images/
+
+# Volcado Open Access del Met: 303 MB, supera el limite de 100 MB por fichero
+# de GitHub. Se descarga con scripts/met_01_download_dump.py.
+data/raw/met/MetObjects.csv
+
+# Ficheros temporales de Word
+~$*.docx
+
+# Python
+__pycache__/
+*.pyc
+
+# Documentos de envio. Fuera del repositorio por dos razones:
+#  - La carta de presentacion contiene correos personales de los tres autores.
+#  - VAR revisa a doble ciego; publicar el manuscrito en un repositorio que
+#    lleva los nombres de los autores comprometeria el anonimato del envio.
+# Se podran depositar tras la publicacion, que la revista permite expresamente.
+*.docx
+
+
+# Guiones del flujo de envio, no de la investigacion. Se excluyen porque
+# build_var_cover.py contiene los correos personales de los autores y los otros
+# dos solo dan formato al manuscrito segun las normas de la revista.
+scripts/build_var_cover.py
+scripts/build_var_manuscript.py
+scripts/audit_var_format.py

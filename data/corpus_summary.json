@@ -1,0 +1,50 @@
+{
+  "images_total": 1193,
+  "bytes_total_mb": 2127,
+  "by_source": {
+    "met": 908,
+    "smithsonian/CHNDM": 152,
+    "cleveland": 133
+  },
+  "by_culture": {
+    "no determinada": 443,
+    "wari": 120,
+    "paracas": 112,
+    "chimu": 111,
+    "nasca": 110,
+    "ica": 80,
+    "chancay": 51,
+    "moche": 38,
+    "inca": 32,
+    "salinar": 25,
+    "tiwanaku": 19,
+    "colonial": 17,
+    "sican": 14,
+    "chuquibamba": 6,
+    "recuay": 5,
+    "chavin": 4,
+    "pachacamac": 4,
+    "vicus": 2
+  },
+  "by_horizon": {
+    "no determinado": 443,
+    "Intermedio Tardio": 262,
+    "Intermedio Temprano": 180,
+    "Horizonte Medio": 143,
+    "Horizonte Temprano": 116,
+    "Horizonte Tardio": 32,
+    "Colonial/Republicano": 17
+  },
+  "by_region": {
+    "no determinada": 766,
+    "costa sur": 233,
+    "costa central": 99,
+    "costa norte": 58,
+    "altiplano": 36,
+    "sierra sur": 1
+  },
+  "uncertain_attribution": 287,
+  "median_megapixels": 3.61,
+  "at_least_0_5_mpx": 1086,
+  "culture_determined": 750
+}

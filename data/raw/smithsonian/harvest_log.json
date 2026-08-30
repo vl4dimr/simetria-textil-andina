@@ -1,0 +1,16 @@
+{
+  "source": "Smithsonian Open Access API",
+  "api_key_mode": "clave propia",
+  "rate_limited": false,
+  "queries": [
+    "unit_code:NMAI AND online_media_type:Images AND (textile OR tunic OR mantle OR poncho OR weaving)",
+    "unit_code:NMAI AND online_media_type:Images AND (Peru OR Bolivia OR Andean)",
+    "unit_code:NMNH AND online_media_type:Images AND (Peru OR Bolivia) AND (textile OR cloth OR weaving)",
+    "online_media_type:Images AND (Paracas OR Nasca OR Nazca OR Wari OR Huari OR Tiwanaku OR Chancay OR Chimu)",
+    "unit_code:CHNDM AND online_media_type:Images AND (Peru OR Peruvian OR Andean) AND textile"
+  ],
+  "records_retrieved": 7743,
+  "andean_textiles": 3740,
+  "with_image": 153,
+  "cc0_with_image": 153
+}
