@@ -27,3 +27,4 @@ __pycache__/
 scripts/build_var_cover.py
 scripts/build_var_manuscript.py
 scripts/audit_var_format.py
+zenodo_images/

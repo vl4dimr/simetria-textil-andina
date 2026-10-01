@@ -59,7 +59,7 @@ def load_rows():
 # ------------------------------------------------------------------ figura 1
 def figura_ejemplos(rows):
     from PIL import Image
-    fig = plt.figure(figsize=(9.6, 3.9), dpi=200, facecolor=SURFACE)
+    fig = plt.figure(figsize=(9.6, 3.9), dpi=300, facecolor=SURFACE)
     gs = GridSpec(2, 6, figure=fig, hspace=0.34, wspace=0.08,
                   left=0.02, right=0.98, top=0.93, bottom=0.05)
 
@@ -108,7 +108,7 @@ def figura_reparto(rows):
            and r["attribution_uncertain"] != "True"]
     # El alto y el margen superior se fijan con holgura: con la caja anterior el
     # subtitulo invadia los titulos de panel y el texto quedaba ilegible.
-    fig, axes = plt.subplots(1, 4, figsize=(9.6, 3.2), dpi=200,
+    fig, axes = plt.subplots(1, 4, figsize=(9.6, 3.2), dpi=300,
                              facecolor=SURFACE, sharey=True,
                              gridspec_kw={"wspace": 0.28})
     y = np.arange(len(FRIEZE_ORDER))
@@ -190,7 +190,7 @@ def figura_degradaciones():
     m_sin = [float(np.mean(x)) for x in afin]
     m_con = [float(np.mean(x)) for x in completo]
 
-    fig, ax = plt.subplots(figsize=(8.2, 3.0), dpi=200, facecolor=SURFACE)
+    fig, ax = plt.subplots(figsize=(8.2, 3.0), dpi=300, facecolor=SURFACE)
     x = np.arange(len(labels))
     ax.plot(x, m_crudo, "-o", color="#c9c8c4", linewidth=2, markersize=7,
             label="sin corrección", zorder=3)
